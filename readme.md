@@ -28,7 +28,7 @@
 
 
 ## Contents
-
+- [highwayns](#highwayns)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -54,6 +54,253 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
+## highwayns
+热烈欢迎新老加入的朋友，给大家共享下面的信息
+- [从小学到博士-chatGPT全程辅导](https://youtu.be/SgibdPkPypc)
+- [如果我没讲清楚或看不了YouTube可以直接看Github的链接](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+- [crazyAI-最近常用AI工具和框架汇总](https://youtu.be/25rMSLS7WeE)
+
+想了解chatGPT原理的朋友可以看看下面的讲座
+- [Transformers入门（上）-学习chatGPT原理](https://youtu.be/9xS-XfOlNJo)
+- [Transformers入门（中）-学习chatGPT原理](https://youtu.be/0jAH6_NtrL4)
+- [Transformers入门（下）-学习chatGPT原理](https://youtu.be/hlgnAlZxUgk)
+- [或者直接看Transformers的文档](https://huggingface.co/docs/transformers/v4.30.0/zh/index)
+
+chatGPT基础prompt学习链接一览
+- [https://github.com/camsong/chatgpt-engineer-prompts](https://github.com/camsong/chatgpt-engineer-prompts)
+- [https://github.com/ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)
+- [https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
+- [https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+- [youtube说明](https://youtu.be/7AYvemZT9mc)
+其他教程
+- [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
+- [https://www.promptingguide.ai/techniques/consistency](https://www.promptingguide.ai/techniques/consistency)
+- [https://learnprompting.org/docs/category/-basics](https://learnprompting.org/docs/category/-basics)
+
+IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，个人和机构都欢迎
+- [ITStory of highwayns](https://youtu.be/93Dl6_odmQQ)
+- [How to utilize ChatGPT for IT learning? We have created over 160 types of IT tutorials using ChatGPT. Feel free to use them and don't hesitate to contact us for support or corporate inquiries.](https://edu.ujhb.org/?page_id=771)
+- [IT Course Selection Guide-2023/05/28](https://youtu.be/hL7D44BN6X8)
+
+- [如何利用ChatGPT进行IT学习？我们已经用ChatGPT创建了超过160种IT教程。请随意使用它们，并随时联系我们以获取支持或进行商业咨询。](http://edu.ujhb.org/?page_id=767)
+- [IT课程选择指南-2023/05/29](https://youtu.be/rB0gPLJgoRQ)
+
+- [ChatGPTをIT学習に活用する方法は？ChatGPTを使用して、160種類以上のITチュートリアルを作成しました。お気軽にご利用いただき、サポートや企業に関するお問い合わせはお気軽にお問い合わせください。](http://edu.ujhb.org/?page_id=769)
+- [ITコース選択ガイド-2023/05/28](https://youtu.be/TQAsX6LbaZA)
+
+我已经完成AI动画制作需要的项目集成，有感兴趣的朋友可以一起合作，一起制作大片
+- ControlNet 1.1 
+	- [https://huggingface.co/lllyasviel/ControlNet-v1-1](https://huggingface.co/lllyasviel/ControlNet-v1-1)
+	- [https://github.com/lllyasviel/ControlNet-v1-1-nightly](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
+- flow_tools
+	- [https://github.com/Sxela/flow_tools](https://github.com/Sxela/flow_tools)
+	- [https://github.com/maua-maua-maua/maua](https://github.com/maua-maua-maua/maua)
+	- [https://github.com/xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- guided-diffusion
+	- [https://github.com/crowsonkb/guided-diffusion](https://github.com/crowsonkb/guided-diffusion)
+- k-diffusion
+	- [https://github.com/Sxela/k-diffusion](https://github.com/Sxela/k-diffusion)
+- python-color-transfer
+	- [https://github.com/pengbo-learn/python-color-transfer](https://github.com/pengbo-learn/python-color-transfer)
+- stablediffusion
+	- [https://github.com/Sxela/sxela-stablediffusion](https://github.com/Sxela/sxela-stablediffusion)
+	- [https://github.com/TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion)
+	- [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- BLIP
+	- [https://github.com/salesforce/BLIP](https://github.com/salesforce/BLIP)
+- RisizeRight
+	- [https://github.com/assafshocher/ResizeRight.git](https://github.com/assafshocher/ResizeRight.git)
+- youtube demo
+	- [cyberpunk](https://youtu.be/ozDGP0dtBfo)
+- 随便找个演员做一下动作，AI就可以生成炫酷的动画了	
+	- [qipaoshow](https://youtu.be/rldsjeDaPbE)
+	- [qipaoshow2](https://youtu.be/meUgBk28izo)
+- 全人工智能创作的科幻短篇
+	- [时光交错-全人工智能创作的科幻短剧](https://youtu.be/TuhS-Tfv8Po)
+	- [Aeon-光と時を超えて](https://youtu.be/Urm25pEmc8s)
+	- [The Godly Beings-The Seed of Civilization](https://youtu.be/wvhLF9y37PY)
+- [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
+
+下列项目诚征合作
+- [chatGPT推荐的50个改变未来的IT项目](http://park.highwayns.com/?page_id=365)
+- [IT项目投资指南](https://youtu.be/po020U-qXB4)
+
+- [chatGPTがおすすめする未来を変える50のITプロジェクト](https://park.highwayns.com/?page_id=359)
+- [ITプロジェクト投資ガイド-2023/05/27](https://youtu.be/naqVNodEAoI)
+
+- [50 IT projects that ChatGPT recommends to change the future](https://park.highwayns.com/?page_id=357)
+- [IT Project Investment Guidline-2023/05/27](https://youtu.be/D0F0Apq9mfM)
+
+chatGPT访谈录如今已经做了30多期，欢迎大家参考
+- [chatgpt访谈录-如何让chatGPT为我们提供商业方案，如何让chatGPT为我们指明未来的出路](https://youtu.be/C1c2N6kNyN8)
+- [chatgpt访谈录-为元宇宙指路](https://youtu.be/DOP6SkDC62o)
+- [chatgpt访谈录-如何让chatGPT协助我们写提案](https://youtu.be/xq_qfuiB75E)
+- [chatGPT访谈录-向chatGPT学习提问的技巧和AI结果呈现的形式](https://youtu.be/m-CgW3qKBts)
+- [chatGPT访谈录-如何使用chatGPT API进行专业领域的知识分析](https://youtu.be/Sps7p7FbuFo)
+- [chatGPT访谈录-IT课程一览和最热门的IT课程排名](https://youtu.be/2kxjkduaen0)
+- [chatGPT访谈录-有了chatGPT，西部世界离我们有多远](https://youtu.be/9n4fiJtN9pA)
+- [chatGPT访谈录-chatGPT+chatPPT，动画素材销售网站提案](https://youtu.be/4wzrlOWvxfM)
+- [chatGPT访谈录-IT学员广告制作企划](https://youtu.be/SLVJr5IObm0)
+- [chatGPT访谈录-Google广告制作和发布流程](https://youtu.be/DI6C7CZb4eo)
+- [chatGPT访谈录-在日本有哪些比较有前途的投资方向](https://youtu.be/PsMvGaAR2Ac)
+- [chatGPT访谈录-在日本有哪些公司能够接受提案营业](https://youtu.be/8aT_cObX2qQ)
+- chatGPT访谈录-人类发展的奇点临近了吗？
+	- [1](https://youtu.be/whQ6mKY7kwg)
+	- [2](https://youtu.be/snjsHARxtvg)
+	- [3](https://youtu.be/fc-wKP0-8KQ)
+- [chatGPT访谈录-孙子兵法与现代战争](https://youtu.be/GGSNR859Edc)
+- [chatGPT访谈录-chatGPT最新更新Browser和Plugin的使用](https://youtu.be/eUnVtiljJY4)
+- [chatGPT访谈录-chatGPT深度思考提示-续写三体](https://youtu.be/B_mjVadtMgY)
+- [chatGPT访谈录-chatGPT深度思考提示-制造聚变反应堆](https://youtu.be/o6gxxeFe7RE)
+- [chatGPT访谈录-chatGPT深度思考提示-见证chatGPT的高度智能](https://youtu.be/lRlEOUz64Gg)
+- [chatGPT访谈录-chatGPT深度思考提示-《时光交错》科幻短剧制作揭秘](https://youtu.be/ILV7ZffoDLo)
+- [chatGPT访谈录-快速学习PDF的内容和根据PDF内容制作讲稿](https://youtu.be/kR_bNUYUxAo)
+- [chatGPT访谈录-让chatGPT翻译和阅读arxiv.org的论文](https://youtu.be/ILT5diAD1JY)
+- [chatGPT访谈录-IT课程选择指南](https://youtu.be/gf0LeqB3WSs)
+- [IT项目投资指南-2023/05/27](https://youtu.be/po020U-qXB4)
+- [MONAI框架介绍](https://youtu.be/0TIuokVoDXU)
+- [chatGPT访谈录-AutoGPT入门](https://youtu.be/GQeHR-qDV8g)
+- [chatGPT访谈录-segment-anything入门](https://youtu.be/dRz6aHAreic)
+- [chatGPT访谈录-AgentGPT入门](https://youtu.be/juGnR1r2TrM)
+- chatGPT访谈录-huggingGPT入门
+	- [1](https://youtu.be/GQeHR-qDV8g)
+	- [2](https://youtu.be/8SnL82POwBM)
+- [chatGPT访谈录-langchain入门](https://youtu.be/SABDX5jY5ZA)
+- [chatGPT plugin应用-查找最便宜的旅馆](https://youtu.be/i6rXKVfV4ug)
+- [transformers模型应用-金融预测，自动驾驶，语音转换等](https://youtu.be/VQXYoAIeDZU)
+
+大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
+最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
+- [future city（long time hip hop music）](https://youtube.com/live/7CNwVmQ5DCc)
+- [brain worship（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/WfMf9cCX5Bo?feature=share)
+- [Robotic Paradise: Synthia](https://youtube.com/live/6r7ANfy1B40?feature=share)
+- [Seraphina（long time lofi hip hop music）](https://youtube.com/live/7UVaLDiQHEk?feature=share)
+- [兔年幻想（Year of the Rabbit fantasy）](https://youtube.com/live/4JlKSMhB-7k)
+- [雪山之恋（Snowy mountain love）](https://youtube.com/live/P-oAVUb91fA)
+- [東京物語(Tokyo Story)](https://youtube.com/live/EJvj3hmIXzs)
+- [农历新年之歌](https://youtube.com/live/xXBMMXCV8Ck)
+- [星际旅行：宇宙の歌（上）](https://youtube.com/live/ukN8CpOQ5zA)
+- [星际旅行：宇宙の歌（下）](https://youtube.com/live/Dc8TNxuKHkc)
+- [The Black Hole](https://youtube.com/live/TN9DgKWFNOw)
+- ["The Paradise"](https://youtube.com/live/hrkrEa9MnZM)
+- ["The Paradise2"](https://youtube.com/live/EU5ID6PprpQ)
+- [The Black Hole（2）](https://youtube.com/live/WHXRyKW7opM)
+- [Route to Future for python learners](https://youtube.com/live/cnTb3ZFBCmo)
+- [Route to Future for java learners](https://youtube.com/live/me8WNDeMCwA)
+- [東京物語(Tokyo Story2)](https://youtube.com/live/2DcpWiMO4aI)
+- [The Black Hole（3）](https://youtube.com/live/ktVP7RrQRTg)
+- [東京物語(Tokyo Story3)](https://youtube.com/live/leUhgu7DzeQ)
+- [The Black Hole（4）](https://youtube.com/live/NvfQrsMI9_s)
+- [東京物語(Tokyo Story4)](https://youtube.com/live/pHLQDITQCfo)
+- [The Black Hole（5）](https://youtube.com/live/-Bd7QemsFGM)
+- [東京物語(Tokyo Story5)](https://youtube.com/live/u2cdgXSqvGg)
+- [The Black Hole（6）](https://youtube.com/live/Pf2MzZlGLrw)
+- [東京物語(Tokyo Story6)](https://youtube.com/live/wbPXPK026sM)
+- [The Black Hole（7）](https://youtube.com/live/JbiYA6QZrX8)
+- [Lady from nebula](https://youtube.com/live/fB9kq6FR6zc)
+- [Journey of the Celestial Goddess](https://youtube.com/live/BWv8yaUgo6s)
+- [Intersecting Time（long time lofi hip hop music）](https://youtube.com/live/nsD_11f0bXw)
+- [Intersecting Time（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/Rg1Dd5P3GnU)
+- [Intersecting Time（long time cyberpunk music）](https://youtube.com/live/_h52hIH_x1U)
+- [Aeon-光と時を超えて（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/bWGheToShjU)
+- [时光交错（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/h7UC88xRit0?feature=share)
+
+迈向AGI的模型综合应用之一AgentGPT学习链接一览
+- [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
+- [https://docs.reworkd.ai/](https://docs.reworkd.ai/)
+- [https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
+
+迈向AGI的模型综合应用之二AutoGPT学习链接一览
+- [https://github.com/Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [https://docs.agpt.co/](https://docs.agpt.co/)
+
+迈向AGI的模型综合应用之三langchain学习链接一览
+- [https://github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)
+- [https://learn.deeplearning.ai/langchain/lesson/1/introduction](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
+- [https://python.langchain.com/docs/get_started/introduction.html](https://python.langchain.com/docs/get_started/introduction.html)
+
+迈向AGI的模型综合应用之四superAGI学习链接一览
+- [https://superagi.com/docs/](https://superagi.com/docs/)
+- [https://github.com/TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+
+迈向AGI的模型综合应用之五Falcon学习链接一览
+- 介于chatGPT3.5和chatGPT4之间的开源大语言模型Falcon-LLM
+	- [https://github.com/Sentdex/Falcon-LLM](https://github.com/Sentdex/Falcon-LLM)
+	- [https://huggingface.co/tiiuae/falcon-40b-instruct](https://huggingface.co/tiiuae/falcon-40b-instruct)
+- [youtube 教程](https://youtu.be/F0XUmW1V_DY)
+- Falcon本地化 langchain+Falcon40B+chainlit	
+	- [https://github.com/highwayns/langchain-falcon-chainlit](https://github.com/highwayns/langchain-falcon-chainlit)
+	- [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
+- [youtube 教程](https://youtu.be/jsXN8biLB_0)
+	
+迈向AGI的模型综合应用之六chatGPT+Plugin学习链接一览
+- chatGPT Plugin Code Interpreter试用体验
+	- [https://youtu.be/9uGjxE7z5rk](https://youtu.be/9uGjxE7z5rk)
+	- [https://luminous-mapusaurus-1aa.notion.site/ChatGPT-Code-interpreter-943c39dfbad14df083ec247ff521f450](https://luminous-mapusaurus-1aa.notion.site/ChatGPT-Code-interpreter-943c39dfbad14df083ec247ff521f450)
+- 关于OpenAI
+	- [api参考手册](https://platform.openai.com/docs/api-reference/introduction)
+	- [oenai-cookbook](https://github.com/openai/openai-cookbook)
+	- [github](https://github.com/openai)
+	- [document](https://platform.openai.com/docs/introduction/overview)
+	- [youtube介绍](https://youtu.be/iyVSBxC0N1k)
+- 关于huggingface
+	- [models](https://huggingface.co/models)
+	- [datasets](https://huggingface.co/datasets)
+	- [spaces](https://huggingface.co/spaces)
+	- [docs](https://huggingface.co/docs)
+	- [github](https://github.com/huggingface)
+	- [youtube介绍](https://youtu.be/C1Nrr0P-Eyo)	
+- [https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+
+迈向AGI的模型综合应用之七BabyAGI学习链接一览
+- [https://github.com/yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
+
+迈向AGI的模型综合应用之八superagent学习链接一览
+- [https://github.com/homanp/superagent](https://github.com/homanp/superagent)
+
+迈向AGI的模型综合应用之九微软Jarvis学习链接一览
+- [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)
+
+迈向AGI的模型综合应用之十谷歌PaLM2学习链接一览
+- [https://ai.google/discover/palm2](https://ai.google/discover/palm2)
+- [https://sites.research.google/med-palm/](https://sites.research.google/med-palm/)
+- [https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai?hl=en](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai?hl=en)
+
+迈向AGI的模型综合应用之十一脸书llama学习链接一览
+- [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
+- [https://github.com/OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)
+
+迈向AGI的模型综合应用之十二Claude2学习链接一览
+- [https://claude.ai/login](https://claude.ai/login)
+- [https://www.anthropic.com/index/claude-2](https://www.anthropic.com/index/claude-2)
+	
+IT学员的福音，已经完成的youtube视频教程
+- Java系列
+	- [Java入门](https://www.youtube.com/watch?v=Uf8X3EFMhfQ&list=PLiQNXkyO5DvKa483EW9NQxZloDoaJwKMz&pp=gAQBiAQB)
+	- [Springboot入门](https://www.youtube.com/watch?v=dwTZQfsx3w4&list=PLiQNXkyO5DvLBkua690wCl3L3w2EnogZR&pp=gAQBiAQB)
+	- [Thymeleaf入门](https://www.youtube.com/watch?v=pP9jKu_6lZ8&list=PLiQNXkyO5DvIRJNar2nKcAHw0sF9QrPag&pp=gAQBiAQB)
+	- [Activiti应用开发](https://www.youtube.com/watch?v=Ydnu7ZR7AEo&list=PLiQNXkyO5DvLts95oWJsoJqw0ngiVWIim&pp=gAQBiAQB)
+	- [jHipster入门](https://www.youtube.com/watch?v=0zsdclmsyjs&list=PLiQNXkyO5DvKOUxUrodDvm7tRLVO1lS8_&pp=gAQBiAQB)
+
+- Python系列
+	- [Python入门](https://www.youtube.com/watch?v=K7B5D-o4WtU&list=PLiQNXkyO5DvJdsh6q3j9O3hINpGrreJbI&pp=gAQBiAQB)
+	- [mlflow入门](https://www.youtube.com/watch?v=F8QCRkby9rQ&list=PLiQNXkyO5DvJFfj0LwCyj9QqIdcb5aAF-&pp=gAQBiAQB)
+	- [人工智能入门](https://www.youtube.com/watch?v=8rjh3gysuVk&list=PLiQNXkyO5DvKnt2r7HqC0Jae0XmQk58UN&pp=gAQBiAQB)
+	- [Finrl应用开发](https://www.youtube.com/watch?v=dwTZQfsx3w4&list=PLiQNXkyO5DvLBkua690wCl3L3w2EnogZR&pp=gAQBiAQB)
+
+- 项目管理系列
+	- [XP项目管理](https://www.youtube.com/watch?v=h1cnoAsEAF4&list=PLiQNXkyO5DvJlpjRSlFYLdCfOvsuJN5Vw&pp=gAQBiAQB)
+	- [PMP项目管理入门](https://www.youtube.com/watch?v=COMgeNuJ-rY&list=PLiQNXkyO5DvI_prxk2eUwjp601Azv2wBo&pp=gAQBiAQB)
+	- [系统构筑指南](https://www.youtube.com/watch?v=7Lg-eEHSit4&list=PLiQNXkyO5DvJKVV-36dAeAkQME_NhcUJ1&pp=gAQBiAQB)
+
+- 其他系列
+	- [C#入门](https://www.youtube.com/watch?v=d9N-zboaxAs&list=PLiQNXkyO5DvIJUUzsxmPG2ClSWDbcXdHF&pp=gAQBiAQB)
+	- [Ruby系统开发](https://www.youtube.com/watch?v=GeSwK6Ey0FE&list=PLiQNXkyO5DvLZlUccnHPsxXgWnVeNCS9a&pp=gAQBiAQB)
+	- [Microsoft365入门](https://www.youtube.com/watch?v=INBpvMerzL8&list=PLiQNXkyO5DvIyEYQYqp5pVyqc2x-kKvql&pp=gAQBiAQB)
+	- [SAP](https://www.youtube.com/watch?v=I_mS2LJH6gU&list=PLiQNXkyO5DvI5sg0r05o4a5dqNtLxAo5b&pp=gAQBiAQB)
+	- [Swagger工具应用](https://www.youtube.com/watch?v=MQqeLiRcERE&list=PLiQNXkyO5DvKakiAKKEsa2ZSSxgS3msfl&pp=gAQBiAQB)
+	- [AWS入门](https://www.youtube.com/watch?v=Bfg9dc3a48U&list=PLiQNXkyO5DvLGK90WaxmNTLkutSrPIgqJ&pp=gAQBiAQB)
 
 ## Platforms
 
