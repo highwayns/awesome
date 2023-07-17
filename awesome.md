@@ -64,7 +64,7 @@ Ensure your list is grammatically correct, typo-free and has no Markdown formatt
 
 ## Choose an appropriate license
 
-Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+Keep in mind that if you [haven't selected a license](https://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
 [Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 
@@ -76,7 +76,7 @@ If you don't feel like writing one from scratch, feel free to take our [contribu
 
 ## Stylize your list properly
 
-Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Create a [table of contents](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
