@@ -72,11 +72,11 @@ chatGPT基础prompt学习链接一览
 - [https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
 - [https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 - [youtube说明](https://youtu.be/7AYvemZT9mc)
-其他教程
-- [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
-- [https://www.promptingguide.ai/techniques/consistency](https://www.promptingguide.ai/techniques/consistency)
-- [https://learnprompting.org/docs/category/-basics](https://learnprompting.org/docs/category/-basics)
+- 其他教程
+	- [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+	- [https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
+	- [https://www.promptingguide.ai/techniques/consistency](https://www.promptingguide.ai/techniques/consistency)
+	- [https://learnprompting.org/docs/category/-basics](https://learnprompting.org/docs/category/-basics)
 
 IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，个人和机构都欢迎
 - [ITStory of highwayns](https://youtu.be/93Dl6_odmQQ)
