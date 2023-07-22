@@ -208,6 +208,10 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 - 随便找个演员做一下动作，AI就可以生成炫酷的动画了	
 	- [qipaoshow](https://youtu.be/rldsjeDaPbE)
 	- [qipaoshow2](https://youtu.be/meUgBk28izo)
+	- [lightflow2-間違い探し、目の力を鍛える](https://youtu.be/mF2wJ5zMb9g)
+	- [lightflow3-光流测试](https://youtu.be/a_cEDEmf9oA)
+	- [fight2](https://youtu.be/384JqJu31co)
+
 - 全人工智能创作的科幻短篇
 	- [时光交错-全人工智能创作的科幻短剧](https://youtu.be/TuhS-Tfv8Po)
 	- [Aeon-光と時を超えて](https://youtu.be/Urm25pEmc8s)
