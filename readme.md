@@ -398,6 +398,10 @@ IT学员的福音，已经完成的youtube视频教程
 	- [Swagger工具应用](https://www.youtube.com/watch?v=MQqeLiRcERE&list=PLiQNXkyO5DvKakiAKKEsa2ZSSxgS3msfl&pp=gAQBiAQB)
 	- [AWS入门](https://www.youtube.com/watch?v=Bfg9dc3a48U&list=PLiQNXkyO5DvLGK90WaxmNTLkutSrPIgqJ&pp=gAQBiAQB)
 
+- 其他资料
+	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
+	- <a href="file/assets_assets_24961_skill_leap_ai_top_100_useful_ai_tools.1689436265.pdf">Top 100 useful AI Tools</a>
+	
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
