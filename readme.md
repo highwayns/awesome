@@ -401,7 +401,7 @@ IT学员的福音，已经完成的youtube视频教程
 - 其他资料
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
 	- <a href="file/assets_assets_24961_skill_leap_ai_top_100_useful_ai_tools.1689436265.pdf">Top 100 useful AI Tools</a>
-	
+	- <a href="https://luminous-mapusaurus-1aa.notion.site/Ai-c3fc8e47087b488c9c8e21f9d87870cc">人工智能工具大全 Ai工具龙虎榜</a>
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
