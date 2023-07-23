@@ -212,6 +212,7 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [lightflow3-光流测试](https://youtu.be/a_cEDEmf9oA)
 	- [fight2](https://youtu.be/384JqJu31co)
 	- [soran3-大型旗袍展](https://youtu.be/HulES7-T5Rc)
+	- [surfing-a brave boy who is surfing](https://youtu.be/E2kJ3n6gLNc)
 
 - 全人工智能创作的科幻短篇
 	- [时光交错-全人工智能创作的科幻短剧](https://youtu.be/TuhS-Tfv8Po)
