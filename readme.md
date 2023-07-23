@@ -306,6 +306,8 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 - [https://docs.reworkd.ai/](https://docs.reworkd.ai/)
 - [https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
+- [Plan and Solve Prompting 论文解读](https://youtu.be/Xh4h2l9mZ68)
+- [迈向AGI的模型综合应用之一AgentGPT](https://youtu.be/KScApYXPYoE)
 
 迈向AGI的模型综合应用之二AutoGPT学习链接一览
 - [https://github.com/Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
