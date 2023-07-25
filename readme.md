@@ -213,6 +213,7 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [fight2](https://youtu.be/384JqJu31co)
 	- [soran3-大型旗袍展](https://youtu.be/HulES7-T5Rc)
 	- [surfing-a brave boy who is surfing](https://youtu.be/E2kJ3n6gLNc)
+	- [pingpong-robot beat man  in pingpong race](https://youtu.be/twc80i_YiRk)
 
 - 全人工智能创作的科幻短篇
 	- [时光交错-全人工智能创作的科幻短剧](https://youtu.be/TuhS-Tfv8Po)
@@ -325,6 +326,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 迈向AGI的模型综合应用之四superAGI学习链接一览
 - [https://superagi.com/docs/](https://superagi.com/docs/)
 - [https://github.com/TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+- [迈向AGI的模型综合应用之四superAGI](https://youtu.be/eu8jLc1Zvo0)
 
 迈向AGI的模型综合应用之五Falcon学习链接一览
 - 介于chatGPT3.5和chatGPT4之间的开源大语言模型Falcon-LLM
