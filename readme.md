@@ -337,7 +337,8 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 	- [https://github.com/highwayns/langchain-falcon-chainlit](https://github.com/highwayns/langchain-falcon-chainlit)
 	- [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 - [youtube 教程](https://youtu.be/jsXN8biLB_0)
-	
+- [迈向AGI的模型综合应用之五Falcon](https://youtu.be/ImJTmyhFI7U)
+
 迈向AGI的模型综合应用之六chatGPT+Plugin学习链接一览
 - chatGPT Plugin Code Interpreter试用体验
 	- [https://youtu.be/9uGjxE7z5rk](https://youtu.be/9uGjxE7z5rk)
