@@ -357,6 +357,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 	- [github](https://github.com/huggingface)
 	- [youtube介绍](https://youtu.be/C1Nrr0P-Eyo)	
 - [https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+- [迈向AGI的模型综合应用之六chatGPT+Plugin](https://youtu.be/6r4fMm4tdiE)
 
 迈向AGI的模型综合应用之七BabyAGI学习链接一览
 - [https://github.com/yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
