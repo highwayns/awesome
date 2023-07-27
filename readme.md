@@ -305,11 +305,21 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [Aeon-光と時を超えて（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/bWGheToShjU)
 - [时光交错（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/h7UC88xRit0?feature=share)
 
+论文解读 真正对技术感兴趣的朋友，请在youtube购买阅读,您的支持是我们最大的动力
+- [Plan and Solve Prompting 论文解读](https://youtu.be/Xh4h2l9mZ68)
+- [MONAI框架介绍](https://www.youtube.com/watch?v=0TIuokVoDXU)
+- [CoDi模型的多模态生成](https://www.youtube.com/watch?v=N4cpf4THJoU)
+- [ReAct: Reasoning and Acting with Large Language Models 论文解读](https://youtu.be/WHlpwRaojts)
+- [Personalize Segment Anything Model with One Shot 论文解读](https://youtu.be/kSRjbQU2c30)
+- [Segment Anything 论文解读](https://youtu.be/4JNUtDfTHQc)
+- [FastFlows: Flow-Based Models for Molecular Graph Generation 论文解读](https://youtu.be/Fsv5kG2vPhE)
+- [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models 解读](https://youtu.be/BbfoPw00pFY)
+- [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images 论文解读](https://youtu.be/LWUjT9srg3U)
+
 迈向AGI的模型综合应用之一AgentGPT学习链接一览
 - [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 - [https://docs.reworkd.ai/](https://docs.reworkd.ai/)
 - [https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
-- [Plan and Solve Prompting 论文解读](https://youtu.be/Xh4h2l9mZ68)
 - [迈向AGI的模型综合应用之一AgentGPT](https://youtu.be/KScApYXPYoE)
 
 迈向AGI的模型综合应用之二AutoGPT学习链接一览
