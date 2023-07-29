@@ -320,6 +320,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [FastFlows: Flow-Based Models for Molecular Graph Generation 论文解读](https://youtu.be/Fsv5kG2vPhE)
 - [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models 解读](https://youtu.be/BbfoPw00pFY)
 - [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images 论文解读](https://youtu.be/LWUjT9srg3U)
+- [RLTF: Reinforcement Learning from Unit Test Feedback 论文解析](https://youtu.be/7pAxKykaNls)
 
 迈向AGI的模型综合应用之一AgentGPT学习链接一览
 - [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
