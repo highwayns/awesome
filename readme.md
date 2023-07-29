@@ -376,6 +376,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 
 迈向AGI的模型综合应用之七BabyAGI学习链接一览
 - [https://github.com/yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
+- [迈向AGI的模型综合应用之七BabyAGI](https://www.youtube.com/watch?v=Cucwldr3O9Q)
 
 迈向AGI的模型综合应用之八superagent学习链接一览
 - [https://github.com/homanp/superagent](https://github.com/homanp/superagent)
