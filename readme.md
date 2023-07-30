@@ -381,23 +381,29 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 
 迈向AGI的模型综合应用之八superagent学习链接一览
 - [https://github.com/homanp/superagent](https://github.com/homanp/superagent)
+- [迈向AGI的模型综合应用之八superagent](https://youtu.be/to6zEXrm8jc)
 
 迈向AGI的模型综合应用之九微软Jarvis学习链接一览
 - [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)
+- [迈向AGI的模型综合应用之九微软Jarvis](https://youtu.be/lhxevXZfrwY)
 
 迈向AGI的模型综合应用之十谷歌PaLM2学习链接一览
 - [https://ai.google/discover/palm2](https://ai.google/discover/palm2)
 - [https://sites.research.google/med-palm/](https://sites.research.google/med-palm/)
 - [https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai?hl=en](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai?hl=en)
+- [迈向AGI的模型综合应用之十谷歌PaLM2](https://youtu.be/1moPpcRF4rc)
 
-迈向AGI的模型综合应用之十一脸书llama学习链接一览
+迈向AGI的模型综合应用之十一脸书llama2学习链接一览
 - [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [https://github.com/OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)
+- [paper](https://ai.meta.com/resources/models-and-libraries/llama/)
+- [迈向AGI的模型综合应用之十一脸书llama2](https://youtu.be/tTPF4hacOOU)
 
 迈向AGI的模型综合应用之十二Claude2学习链接一览
 - [https://claude.ai/login](https://claude.ai/login)
 - [https://www.anthropic.com/index/claude-2](https://www.anthropic.com/index/claude-2)
-	
+- [迈向AGI的模型综合应用之十二Claude2](https://youtu.be/6Wx_J1KzHFE)
+
 IT学员的福音，已经完成的youtube视频教程
 - Java系列
 	- [Java入门](https://www.youtube.com/watch?v=Uf8X3EFMhfQ&list=PLiQNXkyO5DvKa483EW9NQxZloDoaJwKMz&pp=gAQBiAQB)
