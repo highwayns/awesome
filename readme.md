@@ -224,6 +224,7 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [时光交错-全人工智能创作的科幻短剧](https://youtu.be/TuhS-Tfv8Po)
 	- [Aeon-光と時を超えて](https://youtu.be/Urm25pEmc8s)
 	- [The Godly Beings-The Seed of Civilization](https://youtu.be/wvhLF9y37PY)
+	- [Seraphina-AI生成的现代歌剧，请勿对号入座](https://youtu.be/3GyVz-DenT4)
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
 下列项目诚征合作
