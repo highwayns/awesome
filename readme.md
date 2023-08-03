@@ -227,6 +227,8 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Aeon-光と時を超えて](https://youtu.be/Urm25pEmc8s)
 	- [The Godly Beings-The Seed of Civilization](https://youtu.be/wvhLF9y37PY)
 	- [Seraphina-AI生成的现代歌剧，请勿对号入座](https://youtu.be/3GyVz-DenT4)
+	- [晶脑的苏醒--AI生成的科幻小说凤凰涅槃的一个片段，有着无法言语的美妙，欢迎大家合力将之创作成一部伟大的科幻电影](https://youtu.be/47lzVv0lBTA)
+	
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
 下列项目诚征合作
