@@ -152,6 +152,8 @@
 - [如果我没讲清楚或看不了YouTube可以直接看Github的链接](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 - [crazyAI-最近常用AI工具和框架汇总](https://youtu.be/25rMSLS7WeE)
 
+- [AIArt202308 AI剪辑的全AI创作动画](https://youtu.be/A8PAET0oiwg)
+
 想了解chatGPT原理的朋友可以看看下面的讲座
 - [Transformers入门（上）-学习chatGPT原理](https://youtu.be/9xS-XfOlNJo)
 - [Transformers入门（中）-学习chatGPT原理](https://youtu.be/0jAH6_NtrL4)
