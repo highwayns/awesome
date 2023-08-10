@@ -283,6 +283,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 
 大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
 最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
+- [Seraphina（long time cyberpunk music）](https://www.youtube.com/watch?v=aFjAJn-N1kI)
 - [summer storm（long time hip hop music）](https://youtube.com/live/gfUxMDEv_Q8?feature=share)
 - [今夜，我们一起看花火（long time edm synthwave fantasywave and epic music）](https://youtube.com/live/5acSPJB8c1c?feature=share)
 - [future city（long time hip hop music）](https://youtube.com/live/7CNwVmQ5DCc)
