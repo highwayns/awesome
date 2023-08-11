@@ -280,6 +280,8 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [chatGPT访谈录-langchain入门](https://youtu.be/SABDX5jY5ZA)
 - [chatGPT plugin应用-查找最便宜的旅馆](https://youtu.be/i6rXKVfV4ug)
 - [transformers模型应用-金融预测，自动驾驶，语音转换等](https://youtu.be/VQXYoAIeDZU)
+- [chatGPT访谈录-常温常压超导体制备和检测的方法](https://youtu.be/YuQsCr1A-Q8)
+- [chatGPT访谈录-突破性成果：LK-99](https://youtu.be/EBkOdMKBoRU)
 
 大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
 最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
