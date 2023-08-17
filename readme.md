@@ -335,6 +335,10 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images 论文解读](https://youtu.be/LWUjT9srg3U)
 - [RLTF: Reinforcement Learning from Unit Test Feedback 论文解析](https://youtu.be/7pAxKykaNls)
 
+AGI入门
+- VectorDB入门[上](https://youtu.be/IVcMS6ScC3w)　[中](https://youtu.be/lUI3ZNpi3XE)　[下](https://youtu.be/knuRQfD5wWQ)
+- 基于大语言模型的系统开发指南[1](https://youtu.be/gtl-mqTh5gk) [2](https://youtu.be/Sq-laz3EaIw)
+
 迈向AGI的模型综合应用之一AgentGPT学习链接一览
 - [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 - [https://docs.reworkd.ai/](https://docs.reworkd.ai/)
