@@ -336,6 +336,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [RLTF: Reinforcement Learning from Unit Test Feedback 论文解析](https://youtu.be/7pAxKykaNls)
 
 AGI系统开发入门
+- Prompt工程[上](https://youtu.be/tVsiEwwCEgY)　[下](https://youtu.be/Bt7BWoor6lQ)
 - VectorDB入门[上](https://youtu.be/IVcMS6ScC3w)　[中](https://youtu.be/lUI3ZNpi3XE)　[下](https://youtu.be/knuRQfD5wWQ)
 - AutoCoding-基于大语言模型的自动代码生成[上](https://youtu.be/lnCEfQFM7Io)　[中](https://youtu.be/_hlZY1uJPKs)　[下](https://youtu.be/plsy2Qp-4d8)
 - 基于大语言模型的系统开发指南[1](https://youtu.be/gtl-mqTh5gk) [2](https://youtu.be/Sq-laz3EaIw) [3](https://youtu.be/kOCVTbNfeoY) [4](https://youtu.be/_zDgrTPSEgw) [5](https://youtu.be/bJgrB5HEq_s)
