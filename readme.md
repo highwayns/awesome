@@ -341,6 +341,32 @@ AGI系统开发入门
 - AutoCoding-基于大语言模型的自动代码生成[上](https://youtu.be/lnCEfQFM7Io)　[中](https://youtu.be/_hlZY1uJPKs)　[下](https://youtu.be/plsy2Qp-4d8)
 - 基于大语言模型的系统开发指南[1](https://youtu.be/gtl-mqTh5gk) [2](https://youtu.be/Sq-laz3EaIw) [3](https://youtu.be/kOCVTbNfeoY) [4](https://youtu.be/_zDgrTPSEgw) [5](https://youtu.be/bJgrB5HEq_s)
 
+VectorDB
+-[https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
+-[https://github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+-[https://github.com/milvus-io/milvus](https://github.com/milvus-io/milvus)
+-[https://github.com/pgvector/pgvector](https://github.com/pgvector/pgvector)
+-[https://github.com/qdrant/qdrant](https://github.com/qdrant/qdrant)
+-[https://github.com/vdaas/vald](https://github.com/vdaas/vald)
+-[https://github.com/vespa-engine/vespa](https://github.com/vespa-engine/vespa)
+-[https://github.com/weaviate/weaviate](https://github.com/weaviate/weaviate)
+
+AutoCoding
+-[https://github.com/phodal/aigc](https://github.com/phodal/aigc)
+-[https://github.com/chapyter/chapyter](https://github.com/chapyter/chapyter)
+-[https://github.com/AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+-[https://github.com/geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+-[https://github.com/openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot)
+
+LLM Tool
+-[https://github.com/microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+-[https://github.com/ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
+-[https://github.com/mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
+-[https://github.com/mshumer/gpt-oracle-trainer](https://github.com/mshumer/gpt-oracle-trainer)
+-[https://github.com/ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker)
+-[https://github.com/OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)
+-[https://github.com/lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)
+
 迈向AGI的模型综合应用之一AgentGPT学习链接一览
 - [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 - [https://docs.reworkd.ai/](https://docs.reworkd.ai/)
@@ -415,6 +441,7 @@ AGI系统开发入门
 迈向AGI的模型综合应用之十一脸书llama2学习链接一览
 - [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [https://github.com/OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)
+- [https://github.com/getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
 - [paper](https://ai.meta.com/resources/models-and-libraries/llama/)
 - [迈向AGI的模型综合应用之十一脸书llama2](https://youtu.be/tTPF4hacOOU)
 
