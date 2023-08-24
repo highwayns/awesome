@@ -148,6 +148,7 @@
 
 ## highwayns
 热烈欢迎新老加入的朋友，给大家共享下面的信息
+- [highwayns资源介绍](https://youtu.be/vpKmcg_vQs0)
 - [从小学到博士-chatGPT全程辅导](https://youtu.be/SgibdPkPypc)
 - [如果我没讲清楚或看不了YouTube可以直接看Github的链接](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 - [crazyAI-最近常用AI工具和框架汇总](https://youtu.be/25rMSLS7WeE)
@@ -191,6 +192,8 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [https://github.com/Sxela/flow_tools](https://github.com/Sxela/flow_tools)
 	- [https://github.com/maua-maua-maua/maua](https://github.com/maua-maua-maua/maua)
 	- [https://github.com/xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- sdxl
+	- [https://github.com/Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
 - guided-diffusion
 	- [https://github.com/crowsonkb/guided-diffusion](https://github.com/crowsonkb/guided-diffusion)
 - k-diffusion
