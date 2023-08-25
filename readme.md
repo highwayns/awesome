@@ -360,6 +360,7 @@ AutoCoding
 -[https://github.com/AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 -[https://github.com/geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 -[https://github.com/openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot)
+-[https://github.com/facebookresearch/codellama/](https://github.com/facebookresearch/codellama/)
 
 LLM Tool
 -[https://github.com/microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
