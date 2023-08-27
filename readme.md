@@ -235,6 +235,16 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [晶脑的苏醒--AI生成的科幻小说凤凰涅槃的一个片段，有着无法言语的美妙，欢迎大家合力将之创作成一部伟大的科幻电影](https://youtu.be/47lzVv0lBTA)
 	
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
+AI動画創作Youtube教程
+- [AI動画創作-Controlnet使用入門](https://youtu.be/OqTnkHOxQ5M)
+- [AI動画創作-SDXL使用入門](https://youtu.be/1FdcWDfx_gM)
+- [AI動画創作-flowtool使用入門](https://youtu.be/rK4SU9lxfJQ)
+- [AI動画創作-k-diffusion使用入門](https://youtu.be/OMPlYmCTc_g)
+- [AI動画創作-guided diffusion使用入門](https://youtu.be/fK8tNaFIuoA)
+- [AI動画創作-ColorTransfer使用入門](https://youtu.be/S8eLYBXeRXU)
+- [AI動画創作-ResizeRight使用入門](https://youtu.be/fpSIJNeStZk)
+- [AI動画創作-BLIP使用入門](https://youtu.be/zsx6-9AxgHY)
+- [AI動画創作-stable diffusion使用入門](https://youtu.be/CFWUccbNWcA)
 
 下列项目诚征合作
 - [chatGPT推荐的50个改变未来的IT项目](http://park.highwayns.com/?page_id=365)
