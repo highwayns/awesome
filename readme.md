@@ -235,6 +235,7 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [晶脑的苏醒--AI生成的科幻小说凤凰涅槃的一个片段，有着无法言语的美妙，欢迎大家合力将之创作成一部伟大的科幻电影](https://youtu.be/47lzVv0lBTA)
 	
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
+
 AI動画創作Youtube教程
 - [AI動画創作-Controlnet使用入門](https://youtu.be/OqTnkHOxQ5M)
 - [AI動画創作-SDXL使用入門](https://youtu.be/1FdcWDfx_gM)
