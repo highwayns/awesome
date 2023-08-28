@@ -459,6 +459,7 @@ LLM Tool
 - [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)
 - [https://github.com/OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)
 - [https://github.com/getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+- [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
 - [paper](https://ai.meta.com/resources/models-and-libraries/llama/)
 - [迈向AGI的模型综合应用之十一脸书llama2](https://youtu.be/tTPF4hacOOU)
 
