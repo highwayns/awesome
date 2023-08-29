@@ -356,6 +356,7 @@ AGI系统开发入门
 - 基于大语言模型的系统开发指南[1](https://youtu.be/gtl-mqTh5gk) [2](https://youtu.be/Sq-laz3EaIw) [3](https://youtu.be/kOCVTbNfeoY) [4](https://youtu.be/_zDgrTPSEgw) [5](https://youtu.be/bJgrB5HEq_s)
 - Next.js入门[上](https://youtu.be/v1qMe2LwfQg)　[中](https://youtu.be/tfM9ACYaCvA)　[下](https://youtu.be/cC7ibemu5k0)
 - SqlAlchemy入门[上](https://youtu.be/5CrcjkaJrXg)　[中](https://youtu.be/jUFc2ddAiqY)　[下](https://youtu.be/C2f9YbQXsHg)
+- Chroma入门(https://youtu.be/QSlilPK4r4k)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
