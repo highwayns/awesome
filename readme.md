@@ -505,6 +505,7 @@ IT学员的福音，已经完成的youtube视频教程
 	- <a href="https://luminous-mapusaurus-1aa.notion.site/Ai-c3fc8e47087b488c9c8e21f9d87870cc">人工智能工具大全 Ai工具龙虎榜</a>
 
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
+- AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
 
 ## Platforms
 
