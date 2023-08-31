@@ -403,6 +403,7 @@ LLM Tool
 - [https://learn.deeplearning.ai/langchain/lesson/1/introduction](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
 - [https://python.langchain.com/docs/get_started/introduction.html](https://python.langchain.com/docs/get_started/introduction.html)
 - [https://github.com/kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)
+- [https://github.com/imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 - [迈向AGI的模型综合应用之三langchain](https://youtu.be/cx2poFSNL2w)
 
 迈向AGI的模型综合应用之四superAGI学习链接一览
