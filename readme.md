@@ -357,6 +357,8 @@ AGI系统开发入门
 - Next.js入门[上](https://youtu.be/v1qMe2LwfQg)　[中](https://youtu.be/tfM9ACYaCvA)　[下](https://youtu.be/cC7ibemu5k0)
 - SqlAlchemy入门[上](https://youtu.be/5CrcjkaJrXg)　[中](https://youtu.be/jUFc2ddAiqY)　[下](https://youtu.be/C2f9YbQXsHg)
 - Chroma入门(https://youtu.be/QSlilPK4r4k)
+- Celery入门(https://youtu.be/eg7yP5P-LZw)
+- FastApi入门[上](https://youtu.be/yk4mjwB2vE0)　[下](https://youtu.be/yk4mjwB2vE0)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
@@ -400,6 +402,7 @@ LLM Tool
 - [https://github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)
 - [https://learn.deeplearning.ai/langchain/lesson/1/introduction](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
 - [https://python.langchain.com/docs/get_started/introduction.html](https://python.langchain.com/docs/get_started/introduction.html)
+- [https://github.com/kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)
 - [迈向AGI的模型综合应用之三langchain](https://youtu.be/cx2poFSNL2w)
 
 迈向AGI的模型综合应用之四superAGI学习链接一览
@@ -500,6 +503,9 @@ IT学员的福音，已经完成的youtube视频教程
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
 	- <a href="file/assets_assets_24961_skill_leap_ai_top_100_useful_ai_tools.1689436265.pdf">Top 100 useful AI Tools</a>
 	- <a href="https://luminous-mapusaurus-1aa.notion.site/Ai-c3fc8e47087b488c9c8e21f9d87870cc">人工智能工具大全 Ai工具龙虎榜</a>
+
+- AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
+
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
