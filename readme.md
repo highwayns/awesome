@@ -359,6 +359,8 @@ AGI系统开发入门
 - Chroma入门(https://youtu.be/QSlilPK4r4k)
 - Celery入门(https://youtu.be/eg7yP5P-LZw)
 - FastApi入门[上](https://youtu.be/yk4mjwB2vE0)　[下](https://youtu.be/yk4mjwB2vE0)
+- PyPDF入门(https://youtu.be/AS1KFvn7QDA)
+- LangFlow入门(https://youtu.be/bM_Jo1egBMc)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
@@ -507,6 +509,7 @@ IT学员的福音，已经完成的youtube视频教程
 
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
+- AI MUSIC SHOW[3](https://youtu.be/9sQ4fzsGr9w)
 
 ## Platforms
 
