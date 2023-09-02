@@ -361,6 +361,9 @@ AGI系统开发入门
 - FastApi入门[上](https://youtu.be/yk4mjwB2vE0)　[下](https://youtu.be/yk4mjwB2vE0)
 - PyPDF入门(https://youtu.be/AS1KFvn7QDA)
 - LangFlow入门(https://youtu.be/bM_Jo1egBMc)
+- Llama-GPT(https://youtu.be/UrKr7onbDq0)
+- WizardLM入门(https://youtu.be/t13yQoouSMg)
+- PrivateGPT入门(https://youtu.be/YgR5_UyYtzM)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
