@@ -208,6 +208,8 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [https://github.com/salesforce/BLIP](https://github.com/salesforce/BLIP)
 - RisizeRight
 	- [https://github.com/assafshocher/ResizeRight.git](https://github.com/assafshocher/ResizeRight.git)
+- ComfyUI
+	- [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - youtube demo
 	- [cyberpunk](https://youtu.be/ozDGP0dtBfo)
 - 随便找个演员做一下动作，AI就可以生成炫酷的动画了	
@@ -364,6 +366,8 @@ AGI系统开发入门
 - Llama-GPT(https://youtu.be/UrKr7onbDq0)
 - WizardLM入门(https://youtu.be/t13yQoouSMg)
 - PrivateGPT入门(https://youtu.be/YgR5_UyYtzM)
+- Langchain入门[1](https://youtu.be/I1E-cDa6CPA) [2](https://youtu.be/TNkxs-RuNXM) [3](https://youtu.be/tlIsXwnyzKA) [4](https://youtu.be/ykfP2Zof1lM) [5](https://youtu.be/MOUpfiUZmRQ) [6](https://youtu.be/qb1Bmns7CkQ) [7](https://youtu.be/cn4IkHSrPvI)
+- DISC-MedLLM介绍(https://youtu.be/DpkRC6kEn1I)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
@@ -515,6 +519,7 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
 - AI MUSIC SHOW[3](https://youtu.be/9sQ4fzsGr9w)
 - AI MUSIC SHOW[4](https://youtu.be/BAVYRJ1tsdk)
+- AI MUSIC SHOW[5](https://youtu.be/j26giMDzBJY)
 
 ## Platforms
 
