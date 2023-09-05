@@ -248,6 +248,8 @@ AI動画創作Youtube教程
 - [AI動画創作-ResizeRight使用入門](https://youtu.be/fpSIJNeStZk)
 - [AI動画創作-BLIP使用入門](https://youtu.be/zsx6-9AxgHY)
 - [AI動画創作-stable diffusion使用入門](https://youtu.be/CFWUccbNWcA)
+- [AI動画創作-comfyui使用入門](https://youtu.be/tQzw0E3FXCo)
+- [AI動画創作-mov2mov使用入門](https://youtu.be/sl-cAZbwaOQ)
 
 下列项目诚征合作
 - [chatGPT推荐的50个改变未来的IT项目](http://park.highwayns.com/?page_id=365)
@@ -368,6 +370,9 @@ AGI系统开发入门
 - PrivateGPT入门(https://youtu.be/YgR5_UyYtzM)
 - Langchain入门[1](https://youtu.be/I1E-cDa6CPA) [2](https://youtu.be/TNkxs-RuNXM) [3](https://youtu.be/tlIsXwnyzKA) [4](https://youtu.be/ykfP2Zof1lM) [5](https://youtu.be/MOUpfiUZmRQ) [6](https://youtu.be/qb1Bmns7CkQ) [7](https://youtu.be/cn4IkHSrPvI)
 - DISC-MedLLM介绍(https://youtu.be/DpkRC6kEn1I)
+- SalesGPT介绍(https://youtu.be/s2DJlCcclnc)
+- DB-GPT介绍(https://youtu.be/1lFbha4KtJo)
+- FinGPT介绍(https://youtu.be/YSSFI1EtiCU)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
