@@ -526,6 +526,8 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[3](https://youtu.be/9sQ4fzsGr9w)
 - AI MUSIC SHOW[4](https://youtu.be/BAVYRJ1tsdk)
 - AI MUSIC SHOW[5](https://youtu.be/j26giMDzBJY)
+- AI MUSIC SHOW[6](https://youtu.be/cd0d10ahg6o)
+- AI MUSIC SHOW[7](https://youtu.be/oebbiuThklA)
 
 ## Platforms
 
