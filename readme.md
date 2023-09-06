@@ -373,6 +373,8 @@ AGI系统开发入门
 - SalesGPT介绍(https://youtu.be/s2DJlCcclnc)
 - DB-GPT介绍(https://youtu.be/1lFbha4KtJo)
 - FinGPT介绍(https://youtu.be/YSSFI1EtiCU)
+- DeepSpeed介绍(https://youtu.be/1IirZkodQKs)
+- LlamaIndex介绍(https://youtu.be/MQMLMlhPGwo)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
