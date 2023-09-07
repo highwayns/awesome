@@ -375,6 +375,7 @@ AGI系统开发入门
 - FinGPT介绍(https://youtu.be/YSSFI1EtiCU)
 - DeepSpeed介绍(https://youtu.be/1IirZkodQKs)
 - LlamaIndex介绍(https://youtu.be/MQMLMlhPGwo)
+- SuperAGI介绍(https://youtu.be/Xmge9yIrrso)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
@@ -531,6 +532,7 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[6](https://youtu.be/cd0d10ahg6o)
 - AI MUSIC SHOW[7](https://youtu.be/oebbiuThklA)
 - AI MUSIC SHOW[8](https://youtu.be/6WOr3UxUMxQ)
+- AI MUSIC SHOW[9](https://youtu.be/BIFFh1nC4os)
 
 ## Platforms
 
