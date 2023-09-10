@@ -403,6 +403,8 @@ LLM Tool
 - [https://github.com/ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker)
 - [https://github.com/OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)
 - [https://github.com/lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)
+- [https://github.com/Ironclad/rivet](https://github.com/Ironclad/rivet)
+- [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 迈向AGI的模型综合应用之一AgentGPT学习链接一览
 - [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
@@ -523,6 +525,7 @@ IT学员的福音，已经完成的youtube视频教程
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
 	- <a href="file/assets_assets_24961_skill_leap_ai_top_100_useful_ai_tools.1689436265.pdf">Top 100 useful AI Tools</a>
 	- <a href="https://luminous-mapusaurus-1aa.notion.site/Ai-c3fc8e47087b488c9c8e21f9d87870cc">人工智能工具大全 Ai工具龙虎榜</a>
+	- <a href="https://techdiylife.github.io/">百问AI，AI百问</a>
 
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
