@@ -377,6 +377,12 @@ AGI系统开发入门
 - LlamaIndex介绍(https://youtu.be/MQMLMlhPGwo)
 - SuperAGI介绍(https://youtu.be/Xmge9yIrrso)
 
+AGI実務
+- DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
+- Text-Generation-WebUI模型管理実務(https://youtu.be/S5j0aQ-mSx0)
+- Rivet模型应用开发実務(https://youtu.be/jkuspOtDNwo)
+- Flowise模型应用开发実務(https://youtu.be/VeR0YmcKDek)
+
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
 - [https://github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss)
