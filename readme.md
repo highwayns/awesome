@@ -543,6 +543,7 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[8](https://youtu.be/6WOr3UxUMxQ)
 - AI MUSIC SHOW[9](https://youtu.be/BIFFh1nC4os)
 - AI MUSIC SHOW[10](https://youtu.be/yQ7cNyUsD9I)
+- AI MUSIC SHOW[Seraphina](https://youtu.be/U4uLZRPeDVA)
 
 ## Platforms
 
