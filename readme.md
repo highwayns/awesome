@@ -353,6 +353,22 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images 论文解读](https://youtu.be/LWUjT9srg3U)
 - [RLTF: Reinforcement Learning from Unit Test Feedback 论文解析](https://youtu.be/7pAxKykaNls)
 
+医療データとLLM 真正对技术感兴趣的朋友，请在youtube购买阅读,您的支持是我们最大的动力
+- [BioIE-医療データとLLM](https://youtu.be/2I8fiWMTmMU)
+- [CareLlama－医療データとLLM](https://youtu.be/oTIxfAxI_PA)
+- [DISC_MedLLM－医療データとLLM](https://youtu.be/pCyqJPzvfqM)
+- [Fengshenbang_LM-医療データとLLM](https://youtu.be/TJthl5Nj0-4)
+- [HealthCare-医療データとLLM](https://youtu.be/pIzkTjCPzaY)
+- [HL7 FHIR-医療データとLLM](https://youtu.be/skGjTsaJOnk)
+- [HuatuoGPT-医療データとLLM](https://youtu.be/XR5p9USFQT0)
+- [Med_ChatGLM-医療データとLLM](https://youtu.be/NAosEQYZGU0)
+- [QizhenGPT-医療データとLLM](https://youtu.be/T7w4VnwfwWM)
+- [RadLLM-医療データとLLM](https://youtu.be/UpXUB7Tgl2k)
+- [XrayGLM-医療データとLLM](https://youtu.be/4b-Qi35KRow)
+- [药学入门-医療データとLLM](https://youtu.be/ztoPvUTrW6g)
+- [治疗指南入门--医療データとLLM](https://youtu.be/n8sJIRHHBL4)
+- [临床检查入门-医療データとLLM](https://youtu.be/S_MioqK6bys)
+
 AGI系统开发入门
 - Prompt工程[上](https://youtu.be/tVsiEwwCEgY)　[下](https://youtu.be/Bt7BWoor6lQ)
 - VectorDB入门[上](https://youtu.be/IVcMS6ScC3w)　[中](https://youtu.be/lUI3ZNpi3XE)　[下](https://youtu.be/knuRQfD5wWQ)
@@ -382,6 +398,8 @@ AGI実務
 - Text-Generation-WebUI模型管理実務(https://youtu.be/S5j0aQ-mSx0)
 - Rivet模型应用开发実務(https://youtu.be/jkuspOtDNwo)
 - Flowise模型应用开发実務(https://youtu.be/VeR0YmcKDek)
+- Text-Generation-WebUI模型管理実務(2)(https://youtu.be/vK6Zu-imt34)
+- SuperAGI-模型应用実務(https://youtu.be/CsOSQz36WzM)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
