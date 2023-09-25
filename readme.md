@@ -400,6 +400,7 @@ AGI実務
 - Flowise模型应用开发実務(https://youtu.be/VeR0YmcKDek)
 - Text-Generation-WebUI模型管理実務(2)(https://youtu.be/vK6Zu-imt34)
 - SuperAGI-模型应用実務(https://youtu.be/CsOSQz36WzM)
+- langflow&OCR-模型应用设计実務(https://youtu.be/n979ytbnXIM)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
