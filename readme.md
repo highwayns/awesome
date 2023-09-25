@@ -210,6 +210,9 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [https://github.com/assafshocher/ResizeRight.git](https://github.com/assafshocher/ResizeRight.git)
 - ComfyUI
 	- [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- NExT-GPT
+	- [https://github.com/NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
+
 - youtube demo
 	- [cyberpunk](https://youtu.be/ozDGP0dtBfo)
 - 随便找个演员做一下动作，AI就可以生成炫酷的动画了	
