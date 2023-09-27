@@ -253,6 +253,7 @@ AI動画創作Youtube教程
 - [AI動画創作-stable diffusion使用入門](https://youtu.be/CFWUccbNWcA)
 - [AI動画創作-comfyui使用入門](https://youtu.be/tQzw0E3FXCo)
 - [AI動画創作-mov2mov使用入門](https://youtu.be/sl-cAZbwaOQ)
+- [NExT-GPT多模态大语言模型入門](https://youtu.be/sl-cAZbwaOQ)
 
 下列项目诚征合作
 - [chatGPT推荐的50个改变未来的IT项目](http://park.highwayns.com/?page_id=365)
@@ -395,6 +396,7 @@ AGI系统开发入门
 - DeepSpeed介绍(https://youtu.be/1IirZkodQKs)
 - LlamaIndex介绍(https://youtu.be/MQMLMlhPGwo)
 - SuperAGI介绍(https://youtu.be/Xmge9yIrrso)
+- langSmith-langchain应用调试和监控入门(https://youtu.be/xB-XzVUQtgg)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
