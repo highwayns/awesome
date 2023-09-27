@@ -406,6 +406,7 @@ AGI実務
 - Text-Generation-WebUI模型管理実務(2)(https://youtu.be/vK6Zu-imt34)
 - SuperAGI-模型应用実務(https://youtu.be/CsOSQz36WzM)
 - langflow&OCR-模型应用设计実務(https://youtu.be/n979ytbnXIM)
+- langflow-组件应用実務(https://youtu.be/wmhq4zDhTjM)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
