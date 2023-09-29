@@ -557,6 +557,9 @@ IT学员的福音，已经完成的youtube视频教程
 	- <a href="file/assets_assets_24961_skill_leap_ai_top_100_useful_ai_tools.1689436265.pdf">Top 100 useful AI Tools</a>
 	- <a href="https://luminous-mapusaurus-1aa.notion.site/Ai-c3fc8e47087b488c9c8e21f9d87870cc">人工智能工具大全 Ai工具龙虎榜</a>
 	- <a href="https://techdiylife.github.io/">百问AI，AI百问</a>
+	- <a href="https://zhuanlan.zhihu.com/p/616280753">大语言模型（LLM）相关学习资料整理 - 知乎 (zhihu.com) </a>
+	- <a href="https://zhuanlan.zhihu.com/p/650184932">大语言模型（LLM）论文调研整理 - 知乎 (zhihu.com) </a>
+
 
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
