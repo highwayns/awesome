@@ -407,6 +407,7 @@ AGI実務
 - SuperAGI-模型应用実務(https://youtu.be/CsOSQz36WzM)
 - langflow&OCR-模型应用设计実務(https://youtu.be/n979ytbnXIM)
 - langflow-组件应用実務(https://youtu.be/wmhq4zDhTjM)
+- Kor-langchain信息提取実務(https://youtu.be/Gv11eUZD_94)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
