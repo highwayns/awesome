@@ -412,6 +412,8 @@ AGI実務
 - KG-langchain知识图谱应用実務(下)(https://youtu.be/KtDDRYO2hWA)
 - instructGPT-指令微调実務（上）(https://youtu.be/SAwc5TU6zpM)
 - instructGPT-指令微调実務（下）(https://youtu.be/AG9kEosoCTw)
+- langchain-测试开发pytest実務（上）(https://youtu.be/mE4RmDCB4YM)
+- langchain-测试开发pytest実務（下）(https://youtu.be/RGB9c-gCXgc)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
