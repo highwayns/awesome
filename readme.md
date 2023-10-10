@@ -536,7 +536,7 @@ LLM Tool
 
 IT学员的福音，已经完成的youtube视频教程
 - Java系列
-	- [Java入门](https://www.youtube.com/watch?v=Uf8X3EFMhfQ&list=PLiQNXkyO5DvKa483EW9NQxZloDoaJwKMz&pp=gAQBiAQB)
+	- [Java/junit入门](https://www.youtube.com/watch?v=Uf8X3EFMhfQ&list=PLiQNXkyO5DvKa483EW9NQxZloDoaJwKMz&pp=gAQBiAQB)
 	- [Springboot入门](https://www.youtube.com/watch?v=dwTZQfsx3w4&list=PLiQNXkyO5DvLBkua690wCl3L3w2EnogZR&pp=gAQBiAQB)
 	- [Thymeleaf入门](https://www.youtube.com/watch?v=pP9jKu_6lZ8&list=PLiQNXkyO5DvIRJNar2nKcAHw0sF9QrPag&pp=gAQBiAQB)
 	- [Activiti应用开发](https://www.youtube.com/watch?v=Ydnu7ZR7AEo&list=PLiQNXkyO5DvLts95oWJsoJqw0ngiVWIim&pp=gAQBiAQB)
