@@ -372,6 +372,8 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [药学入门-医療データとLLM](https://youtu.be/ztoPvUTrW6g)
 - [治疗指南入门--医療データとLLM](https://youtu.be/n8sJIRHHBL4)
 - [临床检查入门-医療データとLLM](https://youtu.be/S_MioqK6bys)
+- [BioGPT介绍-医療データとLLM](https://youtu.be/72BebieueBA)
+- [chatDoctor介绍-医療データとLLM](https://youtu.be/nYn1dRSt3tw)
 
 AGI系统开发入门
 - Prompt工程[上](https://youtu.be/tVsiEwwCEgY)　[下](https://youtu.be/Bt7BWoor6lQ)
