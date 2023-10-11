@@ -569,6 +569,7 @@ IT学员的福音，已经完成的youtube视频教程
 	- <a href="https://zhuanlan.zhihu.com/p/616280753">大语言模型（LLM）相关学习资料整理 - 知乎 (zhihu.com) </a>
 	- <a href="https://zhuanlan.zhihu.com/p/650184932">大语言模型（LLM）论文调研整理 - 知乎 (zhihu.com) </a>
 	- <a href="https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md">awesome-ChatGPT-repositories</a>
+	- <a href="https://www.zhihu.com/column/c_1685419388302495744">Angora热门前沿论文每日速递</a>
 
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
