@@ -403,6 +403,7 @@ AGI系统开发入门
 - langSmith-langchain应用调试和监控入门(https://youtu.be/xB-XzVUQtgg)
 - DriveGPT4介绍-可解释性的自动驾驶大模型(https://youtu.be/Nv-AsaJBjUc)
 - MediBot-智能医疗助手介绍(https://youtu.be/CdhbR_ikzWc)
+- MediBot-10大医疗聊天机器人(https://youtu.be/tbjBFOubk4U)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
