@@ -404,6 +404,7 @@ AGI系统开发入门
 - DriveGPT4介绍-可解释性的自动驾驶大模型(https://youtu.be/Nv-AsaJBjUc)
 - MediBot-智能医疗助手介绍(https://youtu.be/CdhbR_ikzWc)
 - MediBot-10大医疗聊天机器人(https://youtu.be/tbjBFOubk4U)
+- Big-AGI介绍-Medibot界面设计产品选择(https://youtu.be/MiowkPCsERE)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
@@ -421,6 +422,7 @@ AGI実務
 - instructGPT-指令微调実務（下）(https://youtu.be/AG9kEosoCTw)
 - langchain-测试开发pytest実務（上）(https://youtu.be/mE4RmDCB4YM)
 - langchain-测试开发pytest実務（下）(https://youtu.be/RGB9c-gCXgc)
+- MediBotUI-医疗聊天机器人界面设计(https://youtu.be/i0qJGucvkFg)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
