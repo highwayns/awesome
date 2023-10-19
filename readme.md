@@ -405,6 +405,8 @@ AGI系统开发入门
 - MediBot-智能医疗助手介绍(https://youtu.be/CdhbR_ikzWc)
 - MediBot-10大医疗聊天机器人(https://youtu.be/tbjBFOubk4U)
 - Big-AGI介绍-Medibot界面设计产品选择(https://youtu.be/MiowkPCsERE)
+- ChatBotUI介绍--Medibot界面设计产品选择(https://youtu.be/i4V2U0YEdtA)
+- GPT-Academic介绍--Medibot界面设计产品选择(https://youtu.be/17I9ImTZw_0)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
