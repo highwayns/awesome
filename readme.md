@@ -407,6 +407,7 @@ AGI系统开发入门
 - Big-AGI介绍-Medibot界面设计产品选择(https://youtu.be/MiowkPCsERE)
 - ChatBotUI介绍--Medibot界面设计产品选择(https://youtu.be/i4V2U0YEdtA)
 - GPT-Academic介绍--Medibot界面设计产品选择(https://youtu.be/17I9ImTZw_0)
+- XAgent介绍-超越AutoGPT的AGI(Introduce XAgent - One AGI which better than AutoGPT)(https://youtu.be/pF8prGSUQt4)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
@@ -569,6 +570,7 @@ IT学员的福音，已经完成的youtube视频教程
 	- [SAP](https://www.youtube.com/watch?v=I_mS2LJH6gU&list=PLiQNXkyO5DvI5sg0r05o4a5dqNtLxAo5b&pp=gAQBiAQB)
 	- [Swagger工具应用](https://www.youtube.com/watch?v=MQqeLiRcERE&list=PLiQNXkyO5DvKakiAKKEsa2ZSSxgS3msfl&pp=gAQBiAQB)
 	- [AWS入门](https://www.youtube.com/watch?v=Bfg9dc3a48U&list=PLiQNXkyO5DvLGK90WaxmNTLkutSrPIgqJ&pp=gAQBiAQB)
+	- [NodeJS系列](https://www.youtube.com/watch?v=FefJujx1xkI&list=PLiQNXkyO5DvKK4m1TskqPJN1ooKRc_Drd)
 
 - 其他资料
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
