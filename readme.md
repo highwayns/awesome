@@ -404,10 +404,11 @@ AGI系统开发入门
 - DriveGPT4介绍-可解释性的自动驾驶大模型(https://youtu.be/Nv-AsaJBjUc)
 - MediBot-智能医疗助手介绍(https://youtu.be/CdhbR_ikzWc)
 - MediBot-10大医疗聊天机器人(https://youtu.be/tbjBFOubk4U)
-- Big-AGI介绍-Medibot界面设计产品选择(https://youtu.be/MiowkPCsERE)
-- ChatBotUI介绍--Medibot界面设计产品选择(https://youtu.be/i4V2U0YEdtA)
-- GPT-Academic介绍--Medibot界面设计产品选择(https://youtu.be/17I9ImTZw_0)
+- Big-AGI介绍--Medibot界面设计产品选择(Introduce Big-AGI and how to select interface design for Medibot)(https://youtu.be/MiowkPCsERE)
+- ChatBotUI介绍--Medibot界面设计产品选择(Introduce ChatBotUI and how to select interface design for Medibot)(https://youtu.be/i4V2U0YEdtA)
+- GPT-Academic介绍与Medibot界面设计（Exploring GPT-Academic & Medibot Interface Design）(https://youtu.be/17I9ImTZw_0)
 - XAgent介绍-超越AutoGPT的AGI(Introduce XAgent - One AGI which better than AutoGPT)(https://youtu.be/pF8prGSUQt4)
+- LLM驱动的自主代理（LLM Powered Autonomous Agents）(https://youtu.be/-Q35mHP62Og)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
