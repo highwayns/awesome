@@ -427,6 +427,7 @@ AGI実務
 - langchain-测试开发pytest実務（上）(https://youtu.be/mE4RmDCB4YM)
 - langchain-测试开发pytest実務（下）(https://youtu.be/RGB9c-gCXgc)
 - MediBotUI-医疗聊天机器人界面设计(https://youtu.be/i0qJGucvkFg)
+- DB-GPT実務（Exploring DB-GPT）(https://youtu.be/hCKKQnNeI_w)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
