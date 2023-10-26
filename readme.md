@@ -409,6 +409,8 @@ AGI系统开发入门
 - GPT-Academic介绍与Medibot界面设计（Exploring GPT-Academic & Medibot Interface Design）(https://youtu.be/17I9ImTZw_0)
 - XAgent介绍-超越AutoGPT的AGI(Introduce XAgent - One AGI which better than AutoGPT)(https://youtu.be/pF8prGSUQt4)
 - LLM驱动的自主代理（LLM Powered Autonomous Agents）(https://youtu.be/-Q35mHP62Og)
+- SPR介绍（Introduce SPR-Sparse Priming Representations）(https://youtu.be/uh7FAjrgVU0)
+- latent space activation介绍（Introduce latent space activation）(https://youtu.be/sNw8uArgdgA)
 
 AGI実務
 - DeepSpeed模型微调実務(https://youtu.be/6PSvGcunvto)
@@ -429,6 +431,7 @@ AGI実務
 - MediBotUI-医疗聊天机器人界面设计(https://youtu.be/i0qJGucvkFg)
 - DB-GPT実務（Exploring DB-GPT）(https://youtu.be/hCKKQnNeI_w)
 - MetaGPT実務（AI完成贪吃蛇游戏）-Write a cli snake game(https://youtu.be/qAkq3coyEY4)
+- MemGPT実務（Getting  Start With MemGPT）(https://youtu.be/4WYKFAMds7E)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
