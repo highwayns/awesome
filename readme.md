@@ -432,6 +432,7 @@ AGI実務
 - DB-GPT実務（Exploring DB-GPT）(https://youtu.be/hCKKQnNeI_w)
 - MetaGPT実務（AI完成贪吃蛇游戏）-Write a cli snake game(https://youtu.be/qAkq3coyEY4)
 - MemGPT実務（Getting  Start With MemGPT）(https://youtu.be/4WYKFAMds7E)
+- Custom Instruct指令定制実務(getting start with Custom Instruct)(https://youtu.be/Dv6RrwVWCpA)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
