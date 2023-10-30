@@ -377,6 +377,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [电子处方介绍-医療データとLLM](https://youtu.be/kAOJGuR2RQM)
 - [CDSS-临床决策支持系统介绍-医療データとLLM](https://youtu.be/UUJJCfFTtCo)
 - [UNI模型介绍-（Introduce UNI LM）](https://youtu.be/Zj15a_IyTIM)
+- [virchow模型介绍-（Introduce virchow LM）](https://youtu.be/mQTsBTlShXI)
 
 AGI系统开发入门
 - Prompt工程[上](https://youtu.be/tVsiEwwCEgY)　[下](https://youtu.be/Bt7BWoor6lQ)
