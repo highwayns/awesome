@@ -379,6 +379,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [UNI模型介绍-（Introduce UNI LM）](https://youtu.be/Zj15a_IyTIM)
 - [virchow模型介绍-（Introduce virchow LM）](https://youtu.be/mQTsBTlShXI)
 - [PathOmics模型介绍-（Introduce PathOmics LM）](https://youtu.be/braeS8pjD1o)
+- [DINO算法介绍-（Introduce DINO Algorithm）](https://youtu.be/EcBSeK_jgG4)
 
 AGI系统开发入门
 - Prompt工程[上](https://youtu.be/tVsiEwwCEgY)　[下](https://youtu.be/Bt7BWoor6lQ)
