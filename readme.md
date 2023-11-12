@@ -238,7 +238,9 @@ IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [The Godly Beings-The Seed of Civilization](https://youtu.be/wvhLF9y37PY)
 	- [Seraphina-AI生成的现代歌剧，请勿对号入座](https://youtu.be/3GyVz-DenT4)
 	- [晶脑的苏醒--AI生成的科幻小说凤凰涅槃的一个片段，有着无法言语的美妙，欢迎大家合力将之创作成一部伟大的科幻电影](https://youtu.be/47lzVv0lBTA)
-	
+	- [代理者之域-AI Agent(1)](https://youtu.be/h8NrjjQSifc)
+	- [AI视频解说-chatGPT全自动生成](https://youtu.be/zL1kC2ABnXQ)
+
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
 AI動画創作Youtube教程
@@ -304,6 +306,8 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [transformers模型应用-金融预测，自动驾驶，语音转换等](https://youtu.be/VQXYoAIeDZU)
 - [chatGPT访谈录-常温常压超导体制备和检测的方法](https://youtu.be/YuQsCr1A-Q8)
 - [chatGPT访谈录-突破性成果：LK-99](https://youtu.be/EBkOdMKBoRU)
+- [chatgpt访谈录(35)-俄乌战况分析-见证chatgpt的分析能力](https://youtu.be/NEkS19MlV30)
+- [chatgpt访谈录(35)-chatGPT最新更新-2023/11/12](https://youtu.be/237YdcWhmOY)
 
 大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
 最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
@@ -583,6 +587,10 @@ IT学员的福音，已经完成的youtube视频教程
 	- [AWS入门](https://www.youtube.com/watch?v=Bfg9dc3a48U&list=PLiQNXkyO5DvLGK90WaxmNTLkutSrPIgqJ&pp=gAQBiAQB)
 	- [NodeJS系列](https://www.youtube.com/watch?v=FefJujx1xkI&list=PLiQNXkyO5DvKK4m1TskqPJN1ooKRc_Drd)
 
+- 自动代码生成
+	- Angluar自动代码生成[上](https://youtu.be/qvWhoC_a3HU)[下](https://youtu.be/3FDVw4_eRps)
+	- Springboot RestAPI自动代码生成[上](https://youtu.be/8dCXrgESlHc)[下](https://youtu.be/kyhaWEeNW30)
+
 - 其他资料
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
 	- <a href="file/assets_assets_24961_skill_leap_ai_top_100_useful_ai_tools.1689436265.pdf">Top 100 useful AI Tools</a>
@@ -607,6 +615,11 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[Seraphina](https://youtu.be/U4uLZRPeDVA)
 - AI MUSIC SHOW[12](https://youtu.be/diBYVcFpJGg)
 - AI MUSIC SHOW[梦幻音乐会](https://youtu.be/-CEt817y3ko)
+
+- 20个最好的现代商战谋略系列
+	- 中文[1](https://youtu.be/qyGcTxqPIkc)[2](https://youtu.be/6E8Xgc45lbQ)[3](https://youtu.be/4E7bM6IrWuA)
+	- 日本語[1](https://youtu.be/cccwtzIvL4M)[2](https://youtu.be/FNWC3rTV__E)[3](https://youtu.be/z090ZdHkD4M)
+	- English[1](https://youtu.be/KtLeWBW2tig)[2](https://youtu.be/Nva2ub48EdE)[3](https://youtu.be/Nk-4tm7UPxs)
 
 ## Platforms
 
