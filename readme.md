@@ -173,15 +173,15 @@ chatGPT基础prompt学习链接一览
 	- [https://www.promptingguide.ai/techniques/consistency](https://www.promptingguide.ai/techniques/consistency)
 	- [https://learnprompting.org/docs/category/-basics](https://learnprompting.org/docs/category/-basics)
 
-IT学员的福音，160门课程助你冲过现场面谈,欢迎IT培训洽谈，个人和机构都欢迎
+IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，个人和机构都欢迎
 - [ITStory of highwayns](https://youtu.be/93Dl6_odmQQ)
-- [How to utilize ChatGPT for IT learning? We have created over 160 types of IT tutorials using ChatGPT. Feel free to use them and don't hesitate to contact us for support or corporate inquiries.](https://edu.ujhb.org/?page_id=771)
+- [How to utilize ChatGPT for IT learning? We have created over 170 types of IT tutorials using ChatGPT. Feel free to use them and don't hesitate to contact us for support or corporate inquiries.](https://edu.ujhb.org/?page_id=771)
 - [IT Course Selection Guide-2023/05/28](https://youtu.be/hL7D44BN6X8)
 
-- [如何利用ChatGPT进行IT学习？我们已经用ChatGPT创建了超过160种IT教程。请随意使用它们，并随时联系我们以获取支持或进行商业咨询。](http://edu.ujhb.org/?page_id=767)
+- [如何利用ChatGPT进行IT学习？我们已经用ChatGPT创建了超过170种IT教程。请随意使用它们，并随时联系我们以获取支持或进行商业咨询。](http://edu.ujhb.org/?page_id=767)
 - [IT课程选择指南-2023/05/29](https://youtu.be/rB0gPLJgoRQ)
 
-- [ChatGPTをIT学習に活用する方法は？ChatGPTを使用して、160種類以上のITチュートリアルを作成しました。お気軽にご利用いただき、サポートや企業に関するお問い合わせはお気軽にお問い合わせください。](http://edu.ujhb.org/?page_id=769)
+- [ChatGPTをIT学習に活用する方法は？ChatGPTを使用して、170種類以上のITチュートリアルを作成しました。お気軽にご利用いただき、サポートや企業に関するお問い合わせはお気軽にお問い合わせください。](http://edu.ujhb.org/?page_id=769)
 - [ITコース選択ガイド-2023/05/28](https://youtu.be/TQAsX6LbaZA)
 
 我已经完成AI动画制作需要的项目集成，有感兴趣的朋友可以一起合作，一起制作大片
