@@ -239,6 +239,7 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Seraphina-AI生成的现代歌剧，请勿对号入座](https://youtu.be/3GyVz-DenT4)
 	- [晶脑的苏醒--AI生成的科幻小说凤凰涅槃的一个片段，有着无法言语的美妙，欢迎大家合力将之创作成一部伟大的科幻电影](https://youtu.be/47lzVv0lBTA)
 	- [代理者之域-AI Agent(1)](https://youtu.be/h8NrjjQSifc)
+	- [代理者之域-AI Agent(2-10)](https://youtu.be/LWzR9v4EYJ8)
 	- [AI视频解说-chatGPT全自动生成](https://youtu.be/zL1kC2ABnXQ)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
@@ -590,6 +591,7 @@ IT学员的福音，已经完成的youtube视频教程
 - 自动代码生成
 	- Angluar自动代码生成[上](https://youtu.be/qvWhoC_a3HU)[下](https://youtu.be/3FDVw4_eRps)
 	- Springboot RestAPI自动代码生成[上](https://youtu.be/8dCXrgESlHc)[下](https://youtu.be/kyhaWEeNW30)
+	- Next＋Flask自动代码生成[上](https://youtu.be/LT9BU83DSIU)[下](https://youtu.be/n5G8BEJvCaw)
 
 - 其他资料
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
@@ -600,7 +602,8 @@ IT学员的福音，已经完成的youtube视频教程
 	- <a href="https://zhuanlan.zhihu.com/p/650184932">大语言模型（LLM）论文调研整理 - 知乎 (zhihu.com) </a>
 	- <a href="https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md">awesome-ChatGPT-repositories</a>
 	- <a href="https://www.zhihu.com/column/c_1685419388302495744">Angora热门前沿论文每日速递</a>
-
+	- <a href="https://youtu.be/rTF5OBTlyLE">AI文档标注工具doccano介绍</a>
+	
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
 - AI MUSIC SHOW[3](https://youtu.be/9sQ4fzsGr9w)
@@ -617,9 +620,9 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[梦幻音乐会](https://youtu.be/-CEt817y3ko)
 
 - 20个最好的现代商战谋略系列
-	- 中文[1](https://youtu.be/qyGcTxqPIkc)[2](https://youtu.be/6E8Xgc45lbQ)[3](https://youtu.be/4E7bM6IrWuA)
-	- 日本語[1](https://youtu.be/cccwtzIvL4M)[2](https://youtu.be/FNWC3rTV__E)[3](https://youtu.be/z090ZdHkD4M)
-	- English[1](https://youtu.be/KtLeWBW2tig)[2](https://youtu.be/Nva2ub48EdE)[3](https://youtu.be/Nk-4tm7UPxs)
+	- 中文[1](https://youtu.be/qyGcTxqPIkc)[2](https://youtu.be/6E8Xgc45lbQ)[3](https://youtu.be/4E7bM6IrWuA)[4](https://youtu.be/0aqDpawWcpE)
+	- 日本語[1](https://youtu.be/cccwtzIvL4M)[2](https://youtu.be/FNWC3rTV__E)[3](https://youtu.be/z090ZdHkD4M)[4](https://youtu.be/XZeqW82IMRc)
+	- English[1](https://youtu.be/KtLeWBW2tig)[2](https://youtu.be/Nva2ub48EdE)[3](https://youtu.be/Nk-4tm7UPxs)[4](https://youtu.be/yfL3aafPkRg)
 
 ## Platforms
 
