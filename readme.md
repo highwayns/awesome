@@ -240,6 +240,7 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [晶脑的苏醒--AI生成的科幻小说凤凰涅槃的一个片段，有着无法言语的美妙，欢迎大家合力将之创作成一部伟大的科幻电影](https://youtu.be/47lzVv0lBTA)
 	- [代理者之域-AI Agent(1)](https://youtu.be/h8NrjjQSifc)
 	- [代理者之域-AI Agent(2-10)](https://youtu.be/LWzR9v4EYJ8)
+	- [代理者之域-AI Agent(11-20)](https://youtu.be/MK18aoiJyMA)
 	- [AI视频解说-chatGPT全自动生成](https://youtu.be/zL1kC2ABnXQ)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
