@@ -241,6 +241,9 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [代理者之域-AI Agent(1)](https://youtu.be/h8NrjjQSifc)
 	- [代理者之域-AI Agent(2-10)](https://youtu.be/LWzR9v4EYJ8)
 	- [代理者之域-AI Agent(11-20)](https://youtu.be/MK18aoiJyMA)
+	- [代理者之域-AI Agent(21-30)](https://youtu.be/I658pycD_cg)
+	- [代理者之域-AI Agent(31-40)](https://youtu.be/YI7XrYT9xM8)
+	- [代理者之域-AI Agent(41-50)（第一部完结）](https://youtu.be/z-U3wNzh7mM)
 	- [AI视频解说-chatGPT全自动生成](https://youtu.be/zL1kC2ABnXQ)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
