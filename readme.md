@@ -312,7 +312,8 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [chatGPT访谈录-常温常压超导体制备和检测的方法](https://youtu.be/YuQsCr1A-Q8)
 - [chatGPT访谈录-突破性成果：LK-99](https://youtu.be/EBkOdMKBoRU)
 - [chatgpt访谈录(35)-俄乌战况分析-见证chatgpt的分析能力](https://youtu.be/NEkS19MlV30)
-- [chatgpt访谈录(35)-chatGPT最新更新-2023/11/12](https://youtu.be/237YdcWhmOY)
+- [chatgpt访谈录(36)-chatGPT最新更新-2023/11/12](https://youtu.be/237YdcWhmOY)
+- [chatgpt访谈录(37)-Q*初现以及可能引起的担忧-2023/11/25](https://youtu.be/aOfUz4lOtCs)
 
 大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
 最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
