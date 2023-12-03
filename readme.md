@@ -314,6 +314,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [chatgpt访谈录(35)-俄乌战况分析-见证chatgpt的分析能力](https://youtu.be/NEkS19MlV30)
 - [chatgpt访谈录(36)-chatGPT最新更新-2023/11/12](https://youtu.be/237YdcWhmOY)
 - [chatgpt访谈录(37)-Q*初现以及可能引起的担忧-2023/11/25](https://youtu.be/aOfUz4lOtCs)
+- [chatgpt访谈录(38)--高级提示指令-2023/12/03](https://youtu.be/JiwHILzAy9E)
 
 大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
 最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
@@ -625,9 +626,24 @@ IT学员的福音，已经完成的youtube视频教程
 - AI MUSIC SHOW[梦幻音乐会](https://youtu.be/-CEt817y3ko)
 
 - 20个最好的现代商战谋略系列
-	- 中文[1](https://youtu.be/qyGcTxqPIkc)[2](https://youtu.be/6E8Xgc45lbQ)[3](https://youtu.be/4E7bM6IrWuA)[4](https://youtu.be/0aqDpawWcpE)
-	- 日本語[1](https://youtu.be/cccwtzIvL4M)[2](https://youtu.be/FNWC3rTV__E)[3](https://youtu.be/z090ZdHkD4M)[4](https://youtu.be/XZeqW82IMRc)
-	- English[1](https://youtu.be/KtLeWBW2tig)[2](https://youtu.be/Nva2ub48EdE)[3](https://youtu.be/Nk-4tm7UPxs)[4](https://youtu.be/yfL3aafPkRg)
+	- 中文[1](https://youtu.be/qyGcTxqPIkc)
+		[2](https://youtu.be/6E8Xgc45lbQ)
+		[3](https://youtu.be/4E7bM6IrWuA)
+		[4](https://youtu.be/0aqDpawWcpE)
+		[5](https://youtu.be/w3UtQXQosaw)
+		[6](https://youtu.be/dlp6OD9M7lw)
+	- 日本語[1](https://youtu.be/cccwtzIvL4M)
+		[2](https://youtu.be/FNWC3rTV__E)
+		[3](https://youtu.be/z090ZdHkD4M)
+		[4](https://youtu.be/XZeqW82IMRc)
+		[5](https://youtu.be/fINEVRNNTsc)
+		[6](https://youtu.be/JGjERz3bezM)
+	- English[1](https://youtu.be/KtLeWBW2tig)
+		[2](https://youtu.be/Nva2ub48EdE)
+		[3](https://youtu.be/Nk-4tm7UPxs)
+		[4](https://youtu.be/yfL3aafPkRg)
+		[5](https://youtu.be/qPcl-gos_2M)
+		[6](https://youtu.be/i4V6h_qu3e0)
 
 ## Platforms
 
