@@ -245,6 +245,11 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [代理者之域-AI Agent(31-40)](https://youtu.be/YI7XrYT9xM8)
 	- [代理者之域-AI Agent(41-50)（第一部完结）](https://youtu.be/z-U3wNzh7mM)
 	- [AI视频解说-chatGPT全自动生成](https://youtu.be/zL1kC2ABnXQ)
+	- [代理者之域-AI Agent(51-60)（第二部智能医疗系统的挑战）](https://youtu.be/64gidrX5d8M)
+	- [代理者之域-AI Agent(61-70)（第二部智能医疗系统的挑战）](https://youtu.be/fQtTqYJ3ZeU)
+	- [代理者之域-AI Agent(71-80)（第二部智能医疗系统的挑战）](https://youtu.be/suF_P5JfM-c)
+	- [代理者之域-AI Agent(81-90)（第二部智能医疗系统的挑战）](https://youtu.be/I0DfgjkSsmE)
+	- [代理者之域-AI Agent(91-100)（第二部智能医疗系统的挑战 完结）](https://youtu.be/NDv1H-b6IHw)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
@@ -315,6 +320,7 @@ chatGPT访谈录如今已经做了30多期，欢迎大家参考
 - [chatgpt访谈录(36)-chatGPT最新更新-2023/11/12](https://youtu.be/237YdcWhmOY)
 - [chatgpt访谈录(37)-Q*初现以及可能引起的担忧-2023/11/25](https://youtu.be/aOfUz4lOtCs)
 - [chatgpt访谈录(38)--高级提示指令-2023/12/03](https://youtu.be/JiwHILzAy9E)
+- [chatgpt访谈录(39)-chatGpt系统高级提示词-2023/12/10](https://youtu.be/7vwu9yBes10)
 
 大家一周辛苦了！听听AI创作的高能音乐，愿它带给你无穷的力量，它是抵抗抑郁症的利器。
 最近用的新工具做的图片都是比较艳丽，欢迎大家在欣赏周末的音乐时，同时欣赏这些美丽的风景，同时本人诚征影视合作者，一起用AI打造完美的影视作品
@@ -632,18 +638,21 @@ IT学员的福音，已经完成的youtube视频教程
 		[4](https://youtu.be/0aqDpawWcpE)
 		[5](https://youtu.be/w3UtQXQosaw)
 		[6](https://youtu.be/dlp6OD9M7lw)
+		[7](https://youtu.be/F2FD_6cgE1Q)
 	- 日本語[1](https://youtu.be/cccwtzIvL4M)
 		[2](https://youtu.be/FNWC3rTV__E)
 		[3](https://youtu.be/z090ZdHkD4M)
 		[4](https://youtu.be/XZeqW82IMRc)
 		[5](https://youtu.be/fINEVRNNTsc)
 		[6](https://youtu.be/JGjERz3bezM)
+		[7](https://youtu.be/WkO7q1nskwQ)
 	- English[1](https://youtu.be/KtLeWBW2tig)
 		[2](https://youtu.be/Nva2ub48EdE)
 		[3](https://youtu.be/Nk-4tm7UPxs)
 		[4](https://youtu.be/yfL3aafPkRg)
 		[5](https://youtu.be/qPcl-gos_2M)
 		[6](https://youtu.be/i4V6h_qu3e0)
+		[7](https://youtu.be/LI09hQ4EPrU)
 
 ## Platforms
 
