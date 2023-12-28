@@ -250,6 +250,8 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [代理者之域-AI Agent(71-80)（第二部智能医疗系统的挑战）](https://youtu.be/suF_P5JfM-c)
 	- [代理者之域-AI Agent(81-90)（第二部智能医疗系统的挑战）](https://youtu.be/I0DfgjkSsmE)
 	- [代理者之域-AI Agent(91-100)（第二部智能医疗系统的挑战 完结）](https://youtu.be/NDv1H-b6IHw)
+	- [代理者之域-AI Agent（第七部水星基地1）](https://youtu.be/RRwleyXJ2hs)
+	- [代理者之域-AI Agent（第七部水星基地...）](https://youtu.be/mANMCSy_IHk)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
@@ -615,7 +617,9 @@ IT学员的福音，已经完成的youtube视频教程
 	- <a href="https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md">awesome-ChatGPT-repositories</a>
 	- <a href="https://www.zhihu.com/column/c_1685419388302495744">Angora热门前沿论文每日速递</a>
 	- <a href="https://youtu.be/rTF5OBTlyLE">AI文档标注工具doccano介绍</a>
-	
+	- <a href="https://www.gptshunter.com/#google_vignette">GPTs Hunter</a>
+	- <a href="https://ai-bot.cn/">ai-bot</a>
+
 - AI MUSIC SHOW[1](https://youtu.be/XkpRquSsPPM)
 - AI MUSIC SHOW[2](https://youtu.be/TsPdnPX9lJ8)
 - AI MUSIC SHOW[3](https://youtu.be/9sQ4fzsGr9w)
@@ -639,6 +643,8 @@ IT学员的福音，已经完成的youtube视频教程
 		[5](https://youtu.be/w3UtQXQosaw)
 		[6](https://youtu.be/dlp6OD9M7lw)
 		[7](https://youtu.be/F2FD_6cgE1Q)
+		[8](https://youtu.be/gZuAYt4sfzc)
+		[9](https://youtu.be/fZJl8Ck2Pgg)
 	- 日本語[1](https://youtu.be/cccwtzIvL4M)
 		[2](https://youtu.be/FNWC3rTV__E)
 		[3](https://youtu.be/z090ZdHkD4M)
@@ -646,6 +652,8 @@ IT学员的福音，已经完成的youtube视频教程
 		[5](https://youtu.be/fINEVRNNTsc)
 		[6](https://youtu.be/JGjERz3bezM)
 		[7](https://youtu.be/WkO7q1nskwQ)
+		[8](https://youtu.be/54CGmNlevMU)
+		[9](https://youtu.be/Wg1NZv_8loE)
 	- English[1](https://youtu.be/KtLeWBW2tig)
 		[2](https://youtu.be/Nva2ub48EdE)
 		[3](https://youtu.be/Nk-4tm7UPxs)
@@ -653,6 +661,10 @@ IT学员的福音，已经完成的youtube视频教程
 		[5](https://youtu.be/qPcl-gos_2M)
 		[6](https://youtu.be/i4V6h_qu3e0)
 		[7](https://youtu.be/LI09hQ4EPrU)
+		[8](https://youtu.be/54CGmNlevMU)
+		[9](https://youtu.be/WCUZHqN5NfY)
+- [Futuristic Frontiers: Crafting the Ultimate SF Story](https://youtu.be/lGyICIiWCHw)
+- [解锁数字财富：2023年在线收入的10种验证策略](https://youtu.be/eDj4iMj2pKc)
 
 ## Platforms
 
