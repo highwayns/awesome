@@ -152,6 +152,9 @@
 - [从小学到博士-chatGPT全程辅导](https://youtu.be/SgibdPkPypc)
 - [如果我没讲清楚或看不了YouTube可以直接看Github的链接](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 - [crazyAI-最近常用AI工具和框架汇总](https://youtu.be/25rMSLS7WeE)
+- [2024年掌握IT技术：全面指南](https://youtu.be/qgHUvR3DwGw)
+- [Futuristic Frontiers: Crafting the Ultimate SF Story](https://youtu.be/lGyICIiWCHw)
+- [解锁数字财富：2023年在线收入的10种验证策略](https://youtu.be/eDj4iMj2pKc)
 
 - [AIArt202308 AI剪辑的全AI创作动画](https://youtu.be/A8PAET0oiwg)
 
@@ -663,8 +666,6 @@ IT学员的福音，已经完成的youtube视频教程
 		[7](https://youtu.be/LI09hQ4EPrU)
 		[8](https://youtu.be/54CGmNlevMU)
 		[9](https://youtu.be/WCUZHqN5NfY)
-- [Futuristic Frontiers: Crafting the Ultimate SF Story](https://youtu.be/lGyICIiWCHw)
-- [解锁数字财富：2023年在线收入的10种验证策略](https://youtu.be/eDj4iMj2pKc)
 
 ## Platforms
 
