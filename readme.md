@@ -153,6 +153,9 @@
 - [如果我没讲清楚或看不了YouTube可以直接看Github的链接](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 - [crazyAI-最近常用AI工具和框架汇总](https://youtu.be/25rMSLS7WeE)
 - [2024年掌握IT技术：全面指南](https://youtu.be/qgHUvR3DwGw)
+- [在日本获得IT岗位所需技能](https://youtu.be/DunyAOAesrA)
+- [在日本IT行业获得稳定工作的顶尖建议](https://youtu.be/kekNO2ttqkU)
+- [IT训练营：日常生活](https://youtu.be/ETWOdJdh4tc)
 - [Futuristic Frontiers: Crafting the Ultimate SF Story](https://youtu.be/lGyICIiWCHw)
 - [解锁数字财富：2023年在线收入的10种验证策略](https://youtu.be/eDj4iMj2pKc)
 
@@ -255,6 +258,7 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [代理者之域-AI Agent(91-100)（第二部智能医疗系统的挑战 完结）](https://youtu.be/NDv1H-b6IHw)
 	- [代理者之域-AI Agent（第七部水星基地1）](https://youtu.be/RRwleyXJ2hs)
 	- [代理者之域-AI Agent（第七部水星基地...）](https://youtu.be/mANMCSy_IHk)
+	- [代理者之域-AI Agent（第七部水星基地50完结）](https://youtu.be/ye8vILuDlZU)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
