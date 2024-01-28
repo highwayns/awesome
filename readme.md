@@ -259,6 +259,13 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [代理者之域-AI Agent（第七部水星基地1）](https://youtu.be/RRwleyXJ2hs)
 	- [代理者之域-AI Agent（第七部水星基地...）](https://youtu.be/mANMCSy_IHk)
 	- [代理者之域-AI Agent（第七部水星基地50完结）](https://youtu.be/ye8vILuDlZU)
+	- [代理者之域-AI Agent（第五部终极代理1）](https://youtu.be/uEFX9jJugRY)
+	- [代理者之域-AI Agent（第五部终极代理...）](https://youtu.be/z840neaLYL4)
+	- [代理者之域-AI Agent（第五部终极代理50完结）](https://youtu.be/Nb6XnblNorc)
+	- [代理者之域-AI Agent（第六部代码之谜1）](https://youtu.be/QyrpBOpbzSI)
+	- [代理者之域-AI Agent（第六部代码之谜...）](https://youtu.be/I7yfX85mxwE)
+	- [代理者之域-AI Agent（第六部代码之谜50完结）](https://youtu.be/wkNs3Lo9zmY)
+	- [代理者之域-AI Agent（第八部超级舰队1）](https://youtu.be/9cVK4PJzvxI)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
@@ -613,6 +620,11 @@ IT学员的福音，已经完成的youtube视频教程
 	- Angluar自动代码生成[上](https://youtu.be/qvWhoC_a3HU)[下](https://youtu.be/3FDVw4_eRps)
 	- Springboot RestAPI自动代码生成[上](https://youtu.be/8dCXrgESlHc)[下](https://youtu.be/kyhaWEeNW30)
 	- Next＋Flask自动代码生成[上](https://youtu.be/LT9BU83DSIU)[下](https://youtu.be/n5G8BEJvCaw)
+	- [自动代码生成之Keycloak](https://youtu.be/CpHCZ5n11SM)
+	- [自动代码生成之Quakus](https://youtu.be/SX39Z6gdmwQ)
+	- [自动代码生成之AutoGen](https://youtu.be/pe8-Jmr9jPw)
+	- [自动代码生成之Metaflow](https://youtu.be/FkKdFoTQ6Go)
+	- [自动代码生成之pyHipster](https://youtu.be/SRw9nUtocxM)
 
 - 其他资料
 	- <img width="500" height="350" src="file/WeChat Image_20230722173025.jpg" alt="知识图谱">
