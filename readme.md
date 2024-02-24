@@ -159,6 +159,7 @@
 - [Futuristic Frontiers: Crafting the Ultimate SF Story](https://youtu.be/lGyICIiWCHw)
 - [解锁数字财富：2023年在线收入的10种验证策略](https://youtu.be/eDj4iMj2pKc)
 - [代理者之域门户网站](http://theagentsdomain.site/)
+- [代理者之域Github](https://github.com/highwayns/theagentsdomain)
 
 - [AIArt202308 AI剪辑的全AI创作动画](https://youtu.be/A8PAET0oiwg)
 
@@ -253,6 +254,8 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes'](https://youtu.be/tNJ6mH-q7Uc)
 	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base'](https://youtu.be/0hKlx0JmJ1Y)
 	- [Binge-Watching Season 8 of 'The Agents's Domain': 'The Super Fleet'](https://youtu.be/9259M0oaL78)
+
+	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes' English](https://youtu.be/FGH0XjJl_Yw)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
