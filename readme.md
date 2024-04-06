@@ -233,12 +233,15 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [surfing-a brave boy who is surfing](https://youtu.be/E2kJ3n6gLNc)
 	- [pingpong-robot beat man  in pingpong race](https://youtu.be/twc80i_YiRk)
 	- [whoami-猜猜我是谁](https://youtu.be/axxNnu5Qb68)
+	- [台湾故宫](https://youtu.be/3CMw3-7X1AY)
 
 - 音乐主持人
 	- [用多少眼泪才能让](https://youtu.be/2tQsnw_Rwcw)
 	- [今生最美的遇见](https://youtu.be/QokxWPlqdng)
 	- [活出个样子给自己看](https://youtube.com/shorts/QEiO0FtBf_U)
 	- [苍天不负有情人](https://youtu.be/rGtnpZQE_bE)
+	- [代理者之域2](https://youtu.be/THLoP1--Nuw)
+	- [エージェントのドメイン2](https://youtu.be/qJecmObgJVs)
 
 - 全人工智能创作的科幻短篇
 	- [时光交错-全人工智能创作的科幻短剧](https://youtu.be/TuhS-Tfv8Po)
@@ -256,6 +259,7 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Binge-Watching Season 8 of 'The Agents's Domain': 'The Super Fleet'](https://youtu.be/9259M0oaL78)
 
 	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes' English](https://youtu.be/FGH0XjJl_Yw)
+	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base1-25' (English) ](https://youtu.be/X42iBfKJVFs)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
