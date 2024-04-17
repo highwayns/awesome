@@ -259,7 +259,7 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Binge-Watching Season 8 of 'The Agents's Domain': 'The Super Fleet'](https://youtu.be/9259M0oaL78)
 
 	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes' English](https://youtu.be/FGH0XjJl_Yw)
-	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base1-25' (English) ](https://youtu.be/X42iBfKJVFs)
+	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base1-50' (English) ](https://youtu.be/B12i7jrZf0U)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
@@ -464,6 +464,7 @@ AGI実務
 - MetaGPT実務（AI完成贪吃蛇游戏）-Write a cli snake game(https://youtu.be/qAkq3coyEY4)
 - MemGPT実務（Getting  Start With MemGPT）(https://youtu.be/4WYKFAMds7E)
 - Custom Instruct指令定制実務(getting start with Custom Instruct)(https://youtu.be/Dv6RrwVWCpA)
+- doccano文档标注工具介绍(https://youtu.be/lZaLHiws_mk)
 
 VectorDB
 - [https://github.com/chroma-core/chroma]( https://github.com/chroma-core/chroma)
