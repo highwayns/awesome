@@ -148,6 +148,15 @@
 
 ## highwayns
 热烈欢迎新老加入的朋友，给大家共享下面的信息
+- [1.IT技术教育资源](https://edu.ujhb.org/) 
+- [2.IT项目提案于开发指南资源](https://park.highwayns.com/) 
+- [3.IT视频教育资源](https://www.youtube.com/channel/UCT55QlKl1QDlD06iYK2smrQ)
+- [4.代理者之域门户网站](http://theagentsdomain.site/)
+- [5.代理者之域Github](https://github.com/highwayns/theagentsdomain)
+- [6.人功能智能超级写作＊非公开](https://github.com/highwayns/BookWriter)
+- [7.人工智能接诊](https://github.com/highwayns/Medical_Intake)
+
+热点信息
 - [highwayns资源介绍](https://youtu.be/vpKmcg_vQs0)
 - [从小学到博士-chatGPT全程辅导](https://youtu.be/SgibdPkPypc)
 - [如果我没讲清楚或看不了YouTube可以直接看Github的链接](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
@@ -158,9 +167,6 @@
 - [IT训练营：日常生活](https://youtu.be/ETWOdJdh4tc)
 - [Futuristic Frontiers: Crafting the Ultimate SF Story](https://youtu.be/lGyICIiWCHw)
 - [解锁数字财富：2023年在线收入的10种验证策略](https://youtu.be/eDj4iMj2pKc)
-- [代理者之域门户网站](http://theagentsdomain.site/)
-- [代理者之域Github](https://github.com/highwayns/theagentsdomain)
-
 - [AIArt202308 AI剪辑的全AI创作动画](https://youtu.be/A8PAET0oiwg)
 
 想了解chatGPT原理的朋友可以看看下面的讲座
