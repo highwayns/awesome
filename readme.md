@@ -155,7 +155,7 @@
 ## highwayns
 热烈欢迎新老加入的朋友，给大家共享下面的信息
 - [1.IT技术教育资源](https://edu.ujhb.org/) 
-- [2.IT项目提案于开发指南资源](https://park.highwayns.com/) 
+- [2.IT项目提案和开发指南资源](https://park.highwayns.com/) 
 - [3.IT视频教育资源](https://www.youtube.com/channel/UCT55QlKl1QDlD06iYK2smrQ)
 - [4.代理者之域门户网站](http://theagentsdomain.site/)
 - [5.代理者之域Github](https://github.com/highwayns/theagentsdomain)
@@ -269,9 +269,10 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes'](https://youtu.be/tNJ6mH-q7Uc)
 	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base'](https://youtu.be/0hKlx0JmJ1Y)
 	- [Binge-Watching Season 8 of 'The Agents's Domain': 'The Super Fleet'](https://youtu.be/9259M0oaL78)
+	- [Binge-Watching Season 9 of 'The Agents's Domain': 'The Battle to Protect Earth'](https://youtu.be/gPSSeS9Vpp0)
 
 	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes' English](https://youtu.be/FGH0XjJl_Yw)
-	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base1-50' (English) ](https://youtu.be/B12i7jrZf0U)
+	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base' (English) ](https://youtu.be/B12i7jrZf0U)
 
 - [diffusion教程](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 
