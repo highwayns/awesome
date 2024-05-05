@@ -270,6 +270,7 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base'](https://youtu.be/0hKlx0JmJ1Y)
 	- [Binge-Watching Season 8 of 'The Agents's Domain': 'The Super Fleet'](https://youtu.be/9259M0oaL78)
 	- [Binge-Watching Season 9 of 'The Agents's Domain': 'The Battle to Protect Earth'](https://youtu.be/gPSSeS9Vpp0)
+	- [Binge-Watching Season 10 of 'The Agents's Domain': 'Machine Warriors'](https://youtu.be/fHczEc9-AHc)
 
 	- [Binge-Watching Season 6 of 'The Agents's Domain': 'The Mystery of Codes' English](https://youtu.be/FGH0XjJl_Yw)
 	- [Binge-Watching Season 7 of 'The Agents's Domain': 'Mercury Base' (English) ](https://youtu.be/B12i7jrZf0U)
