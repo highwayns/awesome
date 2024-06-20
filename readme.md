@@ -158,7 +158,7 @@
 - [2.IT项目提案和开发指南资源](https://park.highwayns.com/) 
 - [3.IT视频教育资源](https://www.youtube.com/channel/UCT55QlKl1QDlD06iYK2smrQ)
 - [4.代理者之域门户网站](http://theagentsdomain.site/)
-- [5.代理者之域Github](https://github.com/highwayns/theagentsdomain)
+- [5.代理者之域Github＊非公开](https://github.com/highwayns/theagentsdomain)
 - [6.人功能智能超级写作＊非公开](https://github.com/highwayns/BookWriter)
 - [7.人工智能接诊](https://github.com/highwayns/Medical_Intake)
 
@@ -246,6 +246,9 @@ IT学员的福音，170门课程助你冲过现场面谈,欢迎IT培训洽谈，
 	- [pingpong-robot beat man  in pingpong race](https://youtu.be/twc80i_YiRk)
 	- [whoami-猜猜我是谁](https://youtu.be/axxNnu5Qb68)
 	- [台湾故宫](https://youtu.be/3CMw3-7X1AY)
+	- [台湾故宫](https://youtu.be/3CMw3-7X1AY)
+	- [ミライ](https://www.tiktok.com/@it5632/video/7382554088342310160?is_from_webapp=1&sender_device=pc&web_id=7338998198557984258)
+	- [Mirai: A Robot's Journey to Sentience](https://youtube.com/shorts/hVNR9hvMGhQ)
 
 - 音乐主持人
 	- [用多少眼泪才能让](https://youtu.be/2tQsnw_Rwcw)
